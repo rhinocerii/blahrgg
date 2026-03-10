@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Email Headers Reveal Deep Green Support Letters Were Platform-Generated</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+<h1><a href="/">Rhinoceros</a></h1>
+<nav>
+<a href="/">Home</a>
+<a href="/about.html">About</a>
+</nav>
+</header>
+<main>
+<article>
+<h1>Email Headers Reveal Deep Green Support Letters Were Platform-Generated</h1>
+<div class="date">March 10, 2026</div>
+
+<p><span class="dateline">LANSING, Mich.</span> &mdash; All 12 letters of support submitted to the Lansing City Council for the February 9, 2026 Deep Green Technologies data center hearing were routed through <a href="https://thesoftedge.com/products-services/advocacy-software/">The Soft Edge</a>, a commercial advocacy platform that sends pre-written template emails on behalf of signers. Three groups of letters are word-for-word identical across different signers. Seven distinct template variants targeted different demographics (fiscal conservatives, small business owners, union members, tech advocates).</p>
+
+<p>One of those letters came from Steve Japinga, Senior Vice President of Public Affairs at the <a href="https://www.lansingchamber.org/our-team/">Lansing Regional Chamber of Commerce</a> and operational manager of the LRC-PAC (<a href="https://cfrs.michigan.gov/QueryTools/CFR/LookUp/Committee/CommitteeSearchResults?cfrComId=516">MiTN Committee 000516</a>). He identified himself only as "a member of the local business community." He did not disclose his Chamber title, his PAC role, or any institutional affiliation.</p>
+
+<p>Email header analysis of the original PDF attachments, printed from City Clerk Chris Swope's Outlook inbox, shows that Japinga's email has the administrator loopback pattern: his "on behalf of" field routes back to mailagent@thesoftedge.com instead of exposing a personal email address. He is the only sender in the first batch of letters without a real email behind his name.</p>
+
+<hr>
+
+<h2>Steve Japinga's Roles</h2>
+
+<p>According to <a href="https://projects.propublica.org/nonprofits/">IRS Form 990 filings</a> (EIN 38-0745180), Japinga earns $108,646 per year from the Chamber. He is listed as the operational contact for the LRC-PAC at sjapinga@lansingchamber.org in <a href="https://cfrs.michigan.gov/QueryTools/CFR/LookUp/Committee/CommitteeSearchResults?cfrComId=516">MiTN Committee 000516 records</a>. Before joining the Chamber, he was Managing Director of Capitol Strategies Group, a lobbying firm referenced in <a href="https://lansingcitypulse.com/stories/reefer-madness,2206">City Pulse reporting from 2019</a>.</p>
+
+<p>At the <a href="https://lansingmi.portal.civicclerk.com/event/7678">Lansing Planning Commission November 5, 2025 meeting</a>, Japinga spoke in support of Deep Green, sent the Chamber's formal support letter from his Chamber email (CC'ing Mayor Andy Schor and Planning Director Rawley Van Fossen), and submitted the Chamber's official position on the rezoning. He later submitted a second letter through The Soft Edge identifying himself only as a community member.</p>
+
+<h2>The Soft Edge Platform</h2>
+
+<p><a href="https://thesoftedge.com/about-us/">The Soft Edge, Inc.</a> is a SaaS advocacy platform headquartered in McLean, Virginia. Founded in 1990, the company has 7 employees and claims <a href="https://tracxn.com/d/companies/the-soft-edge/__eiV9RkIurdM9L0vY8xpq9Sr4TAUXwtmI8F_WdgUTgCA">2,000+ clients</a> including IBM and the American Chemical Society.</p>
+
+<blockquote>
+<p>"Use as many rotating message and subject line combinations as you would like to make your campaign as effective as possible."</p>
+<cite><a href="https://thesoftedge.com/products-services/advocacy-software/">The Soft Edge, Inc.</a>, product page for Congress Plus Advocacy software</cite>
+</blockquote>
+
+<p>The mailagent@thesoftedge.com relay address appears in <a href="https://www.regulations.gov/comment/EPA-HQ-OA-2006-0734-0011">federal regulatory comment records on regulations.gov</a>, where the EPA uses plagiarism detection algorithms to flag form letter campaigns. Lansing City Council has no equivalent detection tools.</p>
+
+<p>The platform works as follows: a client purchases a campaign, drafts template letters, enrolls supporters (either by sending signup links or by adding names directly), and the platform sends each letter under the signer's name via its relay address. Recipients receive what appear to be individual emails.</p>
+
+<h2>Template Analysis</h2>
+
+<p>All 12 letters are preserved in two PDFs attached to the <a href="https://lansingmi.portal.civicclerk.com/event/7868/files">Lansing City Council February 9, 2026 meeting packet</a>: "5 support deep green.pdf" (5 letters) and "7 deep green letters.pdf" (7 letters).</p>
+
+<p>Three core template groups contain word-for-word identical text across different signers:</p>
+
+<ul>
+<li><strong>Template A</strong> ("Tax Base / Responsible Development"), sent by Mark McDaniel, Joseph Campbell, Gordon VanWieren, and one other</li>
+<li><strong>Template B</strong> ("Business Community / Open for Business"), sent by Jane Mitchell and Steve Japinga</li>
+<li><strong>Template C</strong> ("Small Business Ripple Effect"), sent by Michael Hull, Peter Campbell, and Megan Doherty</li>
+</ul>
+
+<p>Four additional templates targeted union members, community leaders, and tech advocates individually. All 12 letters close with the same call to action: "approve the rezoning and sale... so this investment can move forward."</p>
+
+<figure>
+<img src="../img/template-comparison.png" alt="Side-by-side comparison of Jane Mitchell's letter and Steve Japinga's letter showing identical body text with different names and addresses">
+<figcaption>Template B: Jane Mitchell's letter (left) and Steve Japinga's letter (right). The text is word-for-word identical. Source: Lansing City Council February 9, 2026 meeting packet, pages 117 and 120.</figcaption>
+</figure>
+
+<h3>Shared Messaging With Deep Green CEO</h3>
+
+<p>Deep Green CEO Mark Lee's formal letter ("Communications about Z-2-25.pdf," attached to the <a href="https://lansingmi.portal.civicclerk.com/event/7868/files">Lansing City Council February 9, 2026 meeting packet</a>) describes the data center's cooling technology as "common throughout northern Europe." That exact phrase appears in Template A's letters, which were presented as independent citizen writing.</p>
+
+<p>Additional phrases appear across both the CEO's letter and the citizen templates: "underutilized" property, "closed-loop cooling system," and "strengthen the tax base." The same phrases also appear in the Chamber's formal letter. The overlap indicates the templates were drafted using Deep Green's own messaging materials.</p>
+
+<h2>Email Header Forensics</h2>
+
+<p>The PDFs from the February 9, 2026 Council meeting packet were printed from Clerk Swope's Outlook inbox. Because they are Outlook print-to-PDF captures, they preserve SMTP email headers, including the "on behalf of" field. The plain-text .txt versions of the same documents strip these headers.</p>
+
+<p>When The Soft Edge sends on behalf of someone who signed up independently and entered their own email, the header reads:</p>
+
+<p><code>From: mailagent@thesoftedge.com on behalf of [Name] &lt;user@realemail.com&gt;</code></p>
+
+<p>When the campaign administrator sends from the admin dashboard, or when someone is enrolled without providing their own email, the header loops back to the platform address:</p>
+
+<p><code>From: mailagent@thesoftedge.com on behalf of [Name] &lt;mailagent@thesoftedge.com&gt;</code></p>
+
+<figure>
+<img src="../img/headers-labeled.png" alt="Email header comparison showing Jane Mitchell's real email address versus Steve Japinga's loopback to the platform relay address">
+<figcaption>Email headers from the Council hearing packet PDFs. Top: Jane Mitchell's header shows her personal email. Bottom: Steve Japinga's header loops back to the platform address.</figcaption>
+</figure>
+
+<p>The results across all 12 letters:</p>
+
+<p><strong>Batch 1</strong> (5 letters): Jane Mitchell (jane@junglejanepromotions.com), Mark McDaniel (capmac42154@hotmail.com), Joseph Campbell (joe.campbell@capitolnational.com), and Dustin Howard (dustin@local333.com) all show real email addresses. Steve Japinga shows the loopback: mailagent@thesoftedge.com.</p>
+
+<p><strong>Batch 2</strong> (7 letters): Michael Hull (m.hull@superiorelectricinc.com) shows a real email address. The remaining six (Peter Campbell, Marchon Holmes, Jim Baker, Aaron Helman, Gordon VanWieren, and Megan Doherty) all show the loopback.</p>
+
+<p>Five of 12 senders (42%) provided their own email addresses. Seven (58%) show the loopback pattern, meaning they were enrolled by the administrator without providing a personal email.</p>
+
+<p>Japinga is the only loopback sender in Batch 1. He has an email address on file with the state as the LRC-PAC's contact (sjapinga@lansingchamber.org), but it does not appear in the header. This pattern is consistent with sending from an administrator account rather than signing up as a participant.</p>
+
+<h2>Sender Affiliations</h2>
+
+<p>The five senders whose real email addresses are visible are affiliated with businesses and unions: Capitol National Bank (Campbell), UA Local 333 plumbers and pipefitters union (Howard), Superior Electric Inc. (Hull), and Jungle Jane Promotions (Mitchell).</p>
+
+<p>UA Local 333's PAC donated $1,000 to LRC-PAC on October 27, 2025, according to <a href="https://cfrs.michigan.gov/QueryTools/CFR/LookUp/Committee/CommitteeSearchResults?cfrComId=516">MiTN Committee 000516 records</a>. The union's VP, Jeremy Garza, is an LRC-PAC-endorsed Council member. Howard's template letter emphasizes "30 union construction jobs."</p>
+
+<p>Three senders listed addresses outside Lansing: Marchon Holmes in Jackson (approximately 45 minutes away), Aaron Helman in Ionia (approximately 50 minutes), and Gordon VanWieren in Okemos. All three show the loopback pattern.</p>
+
+<h2>Support vs. Opposition in the Hearing Packet</h2>
+
+<p>The public comment record for the February 9, 2026 Council hearing ("Communications about Z-2-25.pdf," attached to the <a href="https://lansingmi.portal.civicclerk.com/event/7868/files">Lansing City Council February 9, 2026 meeting packet</a>) contains the full record. In support of Deep Green: 1 formal Chamber letter, 12 Soft Edge template letters, 1 MICEF (Michigan Conservative Energy Forum) letter, and 1 individual citizen email from Marcie Alling (marciejalling@gmail.com, November 18, 2025). In opposition: 12+ individual emails with unique text and personal addresses, plus 3 handwritten postcards.</p>
+
+<p>Every opposition email contains original language. Every support letter except Alling's was either institutional or routed through The Soft Edge.</p>
+
+<h2>Organizational Connections</h2>
+
+<p>According to <a href="https://www.wkar.org/wkar-news/2026-01-16/facing-public-backlash-downtown-lansing-data-center-developer-tries-to-calm-concerns">WKAR reporting from January 16, 2026</a>, Deep Green retained <a href="https://bellwetherpr.com/team/josh-hovey-apr/">Bellwether PR</a> for communications. Bellwether's sole Director, Josh Hovey, is also a committee member of the LRC-PAC. The LRC-PAC's Treasurer is Tim Daman, the Chamber's CEO. <a href="https://cfrs.michigan.gov/QueryTools/CFR/LookUp/Committee/CommitteeSearchResults?cfrComId=516">MiTN records</a> show the LRC-PAC endorsed 6 of the 8 Council members who voted on the Deep Green rezoning and donated $5,000 to Lansing Future PAC.</p>
+
+<p>At the <a href="https://lansingmi.portal.civicclerk.com/event/7678">Lansing Planning Commission November 5, 2025 meeting</a>, four connected participants appeared: Hovey spoke as Deep Green's PR representative, Daman spoke as Chamber CEO, Japinga spoke as a Chamber representative and submitted the formal Chamber letter, and that letter CC'd Mayor Schor and Planning Director Van Fossen.</p>
+
+<h2>Open Question: Who Purchased the Campaign?</h2>
+
+<p>The Soft Edge is a paid platform. Someone purchased the campaign account, drafted the templates, and enrolled the signers. The account holder has not been identified. Possible account holders include: the Chamber (Japinga has the loopback signature and institutional access), Bellwether PR (the 7-audience segmentation is consistent with professional PR work, and the messaging matches Deep Green's talking points), Deep Green Technologies (the talking points originated with the company), or the LRC-PAC (Japinga manages PAC operations, though <a href="https://cfrs.michigan.gov/QueryTools/CFR/LookUp/Committee/CommitteeSearchResults?cfrComId=516">MiTN expenditure records</a> do not show payments to The Soft Edge).</p>
+
+<p>The Chamber's 2021 IRS Form 990, available through <a href="https://projects.propublica.org/nonprofits/">ProPublica Nonprofit Explorer</a>, shows $153,968 in "Other fees" on Part IX. This amount falls at 9.3% of total expenses, just below the 10% threshold that would require itemization on Schedule O.</p>
+
+<p>A FOIA request to the City of Lansing for contracts or invoices with The Soft Edge, Inc. could identify the account holder.</p>
+
+<h2>Precedent</h2>
+
+<p>In 2019, the New Orleans City Council <a href="https://www.utilitydive.com/news/new-orleans-fines-entergy-5m-over-actors-paid-to-support-gas-plant/541144/">fined Entergy $5 million</a> after the utility hired a PR firm that subcontracted <a href="https://thelensnola.org/2019/02/21/entergy-fined-5-million-can-move-forward-with-new-power-plant/">Crowds on Demand to pay actors</a> to testify as residents in favor of a $210M natural gas power plant.</p>
+
+<p>In 2021, New York Attorney General Letitia James <a href="https://ag.ny.gov/press-release/2021/attorney-general-james-issues-report-detailing-millions-fake-comments-revealing">reported that 18 million of 22 million comments</a> submitted during the FCC's net neutrality proceeding were fake, generated by commercial platforms using what the AG's office described as "Mad Libs-style blanks" to create distinct-looking text. <a href="https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence">Related settlements totaled over $5 million</a>.</p>
+
+<p>A 2019 <a href="https://www.govinfo.gov/content/pkg/CHRG-116hhrg42808/html/CHRG-116hhrg42808.htm">House Oversight Committee hearing</a> established that no government body routinely verifies commenter identity and that the federal statute that could address manufactured comments (<a href="https://www.law.cornell.edu/uscode/text/18/1001">18 U.S.C. Section 1001</a>) has never been enforced in this context. The <a href="https://www.acus.gov/research-projects/managing-mass-computer-generated-and-falsely-attributed-comments">Administrative Conference of the United States</a> subsequently recommended federal agencies adopt de-duplication tools and identity verification for public comments.</p>
+
+<p><a href="https://www.brookings.edu/articles/more-than-spam-lobbying-the-epa-through-public-comment-campaigns/">Brookings Institution research</a> found 16% of EPA proposed rules faced mass comment campaigns. The <a href="https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials">FTC banned fake reviews and testimonials in August 2024</a>, though that rule covers commercial endorsements, not political advocacy. The <a href="https://ilr.law.uiowa.edu/print/volume-105-issue-1/ripping-up-the-astroturf-regulating-deceptive-corporate-advertising-methods">Iowa Law Review</a> has argued states should amend deceptive trade practice statutes to cover astroturfing. Michigan has not done so.</p>
+
+<h2>Legal Status in Michigan</h2>
+
+<p>Michigan has no municipal lobbying disclosure requirement. The Soft Edge campaign does not violate any current Michigan statute. If Chamber funds were used for the campaign, that could constitute political intervention restricted for 501(c)(6) tax-exempt organizations. If the LRC-PAC paid for it and did not report the expenditure, that would be a campaign finance reporting violation under Michigan law.</p>
+
+<hr>
+
+<div class="methodology">
+<h3>Methodology</h3>
+<p>This analysis is based entirely on publicly available documents: meeting packets from the <a href="https://lansingmi.portal.civicclerk.com/">Lansing CivicClerk portal</a> (<a href="https://lansingmi.portal.civicclerk.com/event/7868/files">February 9, 2026 Council meeting</a>, <a href="https://lansingmi.portal.civicclerk.com/event/7678">November 5, 2025 Planning Commission meeting</a>), campaign finance records from <a href="https://cfrs.michigan.gov/QueryTools/CFR/LookUp/Committee/CommitteeSearchResults?cfrComId=516">MiTN</a>, IRS Form 990 filings via <a href="https://projects.propublica.org/nonprofits/">ProPublica Nonprofit Explorer</a>, and the <a href="https://www.lansingchamber.org/our-team/">Lansing Regional Chamber of Commerce website</a>. Email header analysis was performed on the original PDF files attached to the Council hearing packet. The plain-text (.txt) versions of the same documents strip email headers and do not contain the forensic evidence described here. Every claim in this article can be verified by downloading the source documents from the links provided.</p>
+</div>
+
+</article>
+</main>
+<footer>Public records analysis. No ads. No tracking.</footer>
+</body>
+</html>
