@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 12 4, 0 8" fill="#b91c1c"/>
+    </marker>
+    <marker id="arr-gray" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 12 4, 0 8" fill="#666"/>
+    </marker>
+  </defs>
+
+  <rect width="880" height="520" fill="#f8f9fa" rx="8"/>
+
+  <text x="440" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a1a1a">Where the Money Goes</text>
+
+  <!-- LRC-PAC central box -->
+  <rect x="310" y="55" width="260" height="65" rx="6" fill="#b45309" stroke="#92400e" stroke-width="2"/>
+  <text x="440" y="82" text-anchor="middle" font-size="17" font-weight="bold" fill="white">LRC-PAC</text>
+  <text x="440" y="102" text-anchor="middle" font-size="12" fill="#fde68a">$34,301 spent in 2025 (9 months)</text>
+
+  <!-- Council members - left side -->
+  <rect x="30" y="175" width="250" height="200" rx="6" fill="#1e3a5f" stroke="#0f2640" stroke-width="2"/>
+  <text x="155" y="198" text-anchor="middle" font-size="14" font-weight="bold" fill="white">6 of 8 Council Members</text>
+  <text x="155" y="215" text-anchor="middle" font-size="12" fill="#b0c4de">$25,750 cumulative</text>
+  <line x1="50" y1="225" x2="260" y2="225" stroke="#2a4a7a" stroke-width="1"/>
+  <text x="60" y="245" font-size="12" fill="#b0c4de">Carter</text>
+  <text x="230" y="245" text-anchor="end" font-size="12" font-weight="bold" fill="white">$9,850</text>
+  <text x="60" y="263" font-size="12" fill="#b0c4de">Pehlivanoglu</text>
+  <text x="230" y="263" text-anchor="end" font-size="12" font-weight="bold" fill="white">$7,900</text>
+  <text x="60" y="281" font-size="12" fill="#b0c4de">C. Martinez</text>
+  <text x="230" y="281" text-anchor="end" font-size="12" fill="#b0c4de">$4,000</text>
+  <text x="60" y="299" font-size="12" fill="#b0c4de">Spadafore</text>
+  <text x="230" y="299" text-anchor="end" font-size="12" fill="#b0c4de">$1,500</text>
+  <text x="60" y="317" font-size="12" fill="#b0c4de">Nevarez Martinez</text>
+  <text x="230" y="317" text-anchor="end" font-size="12" fill="#b0c4de">$1,500</text>
+  <text x="60" y="335" font-size="12" fill="#b0c4de">Garza</text>
+  <text x="230" y="335" text-anchor="end" font-size="12" fill="#b0c4de">$1,000</text>
+  <text x="60" y="353" font-size="12" fill="#b0c4de">Kost, Hussain</text>
+  <text x="230" y="353" text-anchor="end" font-size="12" fill="#b0c4de">$0</text>
+
+  <!-- Arrow: LRC-PAC → Council -->
+  <path d="M 370 120 L 370 160 L 155 160 L 155 173" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#arr)" fill="none"/>
+  <text x="260" y="153" font-size="13" fill="#b91c1c" font-weight="bold">$25,750</text>
+
+  <!-- Mayor box -->
+  <rect x="330" y="175" width="220" height="55" rx="6" fill="#0e7490" stroke="#0c5e73" stroke-width="2"/>
+  <text x="440" y="198" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Mayor Schor</text>
+  <text x="440" y="215" text-anchor="middle" font-size="12" fill="#a5f3fc">appoints Planning Commission</text>
+
+  <!-- Arrow: LRC-PAC → Mayor -->
+  <line x1="440" y1="120" x2="440" y2="173" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#arr)"/>
+  <text x="460" y="152" font-size="13" fill="#b91c1c" font-weight="bold">$1,500</text>
+
+  <!-- Greenlee box -->
+  <rect x="330" y="270" width="220" height="55" rx="6" fill="#374151" stroke="#1f2937" stroke-width="2"/>
+  <text x="440" y="293" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Greenlee Consulting</text>
+  <text x="440" y="310" text-anchor="middle" font-size="12" fill="#9ca3af">polling, mailers, texts</text>
+
+  <!-- Arrow: LRC-PAC → Greenlee -->
+  <path d="M 510 120 L 510 260 L 440 260 L 440 268" stroke="#666" stroke-width="2" marker-end="url(#arr-gray)" fill="none"/>
+  <text x="530" y="200" font-size="13" fill="#666">$19,034 (55%)</text>
+
+  <!-- Dark money cluster - right side -->
+  <rect x="600" y="175" width="250" height="60" rx="6" fill="#7f1d1d" stroke="#991b1b" stroke-width="2"/>
+  <text x="725" y="198" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Lansing Future PAC</text>
+  <text x="725" y="215" text-anchor="middle" font-size="11" fill="#fca5a5">SuperPAC at 428 W Lenawee (Felsing)</text>
+
+  <!-- Arrow: LRC-PAC → Lansing Future PAC -->
+  <path d="M 510 120 L 510 148 L 725 148 L 725 173" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#arr)" fill="none"/>
+  <text x="620" y="141" font-size="13" fill="#b91c1c" font-weight="bold">$5,000</text>
+
+  <!-- 501c4 box -->
+  <rect x="600" y="270" width="250" height="55" rx="6" fill="#450a0a" stroke="#7f1d1d" stroke-width="2"/>
+  <text x="725" y="293" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Lansing Future Fund</text>
+  <text x="725" y="310" text-anchor="middle" font-size="11" fill="#fca5a5">501(c)(4) — donors not disclosed</text>
+
+  <!-- Arrow: Lansing Future PAC → 501c4 -->
+  <line x1="725" y1="235" x2="725" y2="268" stroke="#666" stroke-width="2" stroke-dasharray="6,3" marker-end="url(#arr-gray)"/>
+  <text x="745" y="257" font-size="11" fill="#666">same address</text>
+
+  <!-- Also receiving from unions -->
+  <rect x="600" y="355" width="250" height="50" rx="4" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="725" y="375" text-anchor="middle" font-size="12" fill="#374151">Also received from:</text>
+  <text x="725" y="393" text-anchor="middle" font-size="12" fill="#374151">UA Local 333 ($5K) + MI Carpenters ($5K)</text>
+
+  <line x1="725" y1="325" x2="725" y2="353" stroke="#999" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- Grassroots Midwest note -->
+  <rect x="330" y="355" width="220" height="50" rx="4" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="440" y="375" text-anchor="middle" font-size="12" fill="#374151">Prior vendor: Grassroots Midwest</text>
+  <text x="440" y="393" text-anchor="middle" font-size="12" fill="#374151">$31,750 (2015-2022)</text>
+
+  <line x1="440" y1="325" x2="440" y2="353" stroke="#999" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- Timeline bar -->
+  <rect x="30" y="430" width="820" height="40" rx="4" fill="#e5e7eb" stroke="#d1d5db" stroke-width="1"/>
+  <text x="440" y="455" text-anchor="middle" font-size="12" fill="#374151">Jan 2025: $24,889 balance → Oct 2025: -$2,601 balance. Deficit coincided with Nov 2025 elections + Deep Green rezoning push.</text>
+
+  <!-- Source -->
+  <text x="440" y="500" text-anchor="middle" font-size="11" fill="#6b7280">Sources: MiTN Committees 000516, 521284 | Ingham County campaign finance portal | LARA Entity 803132254</text>
+</svg>
