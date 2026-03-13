@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" font-family="Georgia, serif">
+  <rect width="800" height="280" fill="#fafaf8"/>
+
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">Heat Source for Downtown Hot Water System</text>
+
+  <!-- Timeline bar: transition period -->
+  <rect x="80" y="80" width="400" height="50" fill="#5a8a5a" rx="3"/>
+  <text x="280" y="110" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">REO Cogeneration Plant (~15 years)</text>
+
+  <!-- Timeline bar: gap -->
+  <rect x="480" y="80" width="250" height="50" fill="#ddd" rx="3" stroke="#999" stroke-width="1" stroke-dasharray="6,3"/>
+  <text x="605" y="105" text-anchor="middle" font-size="14" fill="#666" font-weight="bold">No heat source</text>
+  <text x="605" y="122" text-anchor="middle" font-size="12" fill="#666">identified in presentation</text>
+
+  <!-- Year labels -->
+  <text x="80" y="155" font-size="12" fill="#333">2025</text>
+  <text x="470" y="155" font-size="12" fill="#333">~2040</text>
+  <text x="720" y="155" font-size="12" fill="#333">2045+</text>
+
+  <!-- Arrow line -->
+  <line x1="80" y1="140" x2="730" y2="140" stroke="#333" stroke-width="1.5"/>
+
+  <!-- Deep Green note -->
+  <rect x="480" y="180" width="250" height="55" fill="#f5f0e8" rx="3" stroke="#c44" stroke-width="1"/>
+  <text x="605" y="200" text-anchor="middle" font-size="12" fill="#333">Deep Green waste heat would</text>
+  <text x="605" y="216" text-anchor="middle" font-size="12" fill="#333">fill this gap. Announced 2 months</text>
+  <text x="605" y="232" text-anchor="middle" font-size="12" fill="#333">after Board approved conversion.</text>
+
+  <!-- Peffley quote -->
+  <text x="280" y="195" text-anchor="middle" font-size="11" font-style="italic" fill="#555">Commissioner James asked about alternatives.</text>
+  <text x="280" y="212" text-anchor="middle" font-size="11" font-style="italic" fill="#555">Peffley: "Electric heat, or natural gas</text>
+  <text x="280" y="229" text-anchor="middle" font-size="11" font-style="italic" fill="#555">if it was available."</text>
+
+  <!-- Source -->
+  <text x="400" y="268" text-anchor="middle" font-size="10" fill="#888">Sources: BWL Board packets, Sep 9 and Sep 23, 2025; BWL press release, Nov 5, 2025.</text>
+</svg>

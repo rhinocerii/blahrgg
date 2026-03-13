@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="Georgia, serif">
+  <rect width="800" height="360" fill="#fafaf8"/>
+
+  <!-- Agenda column -->
+  <text x="200" y="30" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">Agenda (fileId 11081)</text>
+  <text x="200" y="48" text-anchor="middle" font-size="12" fill="#555">Old Business, Dec 10, 2025</text>
+
+  <rect x="50" y="65" width="300" height="42" fill="#f5e6e6" stroke="#c44" stroke-width="1.5" rx="3"/>
+  <text x="65" y="82" font-size="13" font-weight="bold" fill="#333">A.</text>
+  <text x="85" y="82" font-size="13" fill="#333">BWL Wentworth Park</text>
+  <text x="85" y="98" font-size="13" fill="#333">Steam Conversion</text>
+
+  <rect x="50" y="115" width="300" height="35" fill="#fff" stroke="#333" stroke-width="1" rx="3"/>
+  <text x="65" y="138" font-size="13" fill="#333"><tspan font-weight="bold">B.</tspan> 5 - Year Plan</text>
+
+  <rect x="50" y="158" width="300" height="35" fill="#fff" stroke="#333" stroke-width="1" rx="3"/>
+  <text x="65" y="181" font-size="13" fill="#333"><tspan font-weight="bold">C.</tspan> Kircher Park Memorial Request</text>
+
+  <rect x="50" y="201" width="300" height="35" fill="#fff" stroke="#333" stroke-width="1" rx="3"/>
+  <text x="65" y="224" font-size="13" fill="#333"><tspan font-weight="bold">D.</tspan> Ranney Park Additional Lighting</text>
+
+  <rect x="50" y="244" width="300" height="35" fill="#f5e6e6" stroke="#c44" stroke-width="1.5" rx="3"/>
+  <text x="65" y="267" font-size="13" fill="#333"><tspan font-weight="bold">E.</tspan> Property Adjacent to Osborn Park</text>
+
+  <!-- Minutes column -->
+  <text x="600" y="30" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">Minutes (fileId 11245)</text>
+  <text x="600" y="48" text-anchor="middle" font-size="12" fill="#555">Old Business, Dec 10, 2025</text>
+
+  <rect x="450" y="115" width="300" height="35" fill="#fff" stroke="#333" stroke-width="1" rx="3"/>
+  <text x="465" y="138" font-size="13" fill="#333"><tspan font-weight="bold">A.</tspan> 5 - Year Plan</text>
+
+  <rect x="450" y="158" width="300" height="35" fill="#fff" stroke="#333" stroke-width="1" rx="3"/>
+  <text x="465" y="181" font-size="13" fill="#333"><tspan font-weight="bold">B.</tspan> Kircher Park Memorial Request</text>
+
+  <rect x="450" y="201" width="300" height="35" fill="#fff" stroke="#333" stroke-width="1" rx="3"/>
+  <text x="465" y="224" font-size="13" fill="#333"><tspan font-weight="bold">C.</tspan> Ranney Park Additional Lighting</text>
+
+  <!-- Arrows connecting matching items -->
+  <line x1="350" y1="132" x2="448" y2="132" stroke="#666" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="350" y1="175" x2="448" y2="175" stroke="#666" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="350" y1="218" x2="448" y2="218" stroke="#666" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Missing labels -->
+  <text x="600" y="88" text-anchor="middle" font-size="13" font-style="italic" fill="#c44">Missing</text>
+  <text x="600" y="267" text-anchor="middle" font-size="13" font-style="italic" fill="#c44">Missing</text>
+
+  <!-- Annotation -->
+  <text x="600" y="300" text-anchor="middle" font-size="12" fill="#555">Items B-D relabeled A-C.</text>
+  <text x="600" y="318" text-anchor="middle" font-size="12" fill="#555">Gap closed by renumbering.</text>
+
+  <!-- Source -->
+  <text x="400" y="350" text-anchor="middle" font-size="10" fill="#888">Source: CivicClerk portal, Park Board Category ID 61, fileId 11081 and 11245.</text>
+</svg>
