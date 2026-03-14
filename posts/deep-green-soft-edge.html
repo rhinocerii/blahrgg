@@ -20,7 +20,12 @@
 <h1>Lansing: Email Headers Reveal Deep Green Support Letters Were Platform-Generated</h1>
 <div class="date">March 10, 2026</div>
 
-<p><span class="dateline">LANSING, Mich.</span> &mdash; All 12 letters of support submitted to the Lansing City Council for the February 9, 2026 Deep Green Technologies data center hearing were routed through <a href="https://thesoftedge.com/products-services/advocacy-software/">The Soft Edge</a>, a commercial advocacy platform that sends pre-written template emails on behalf of signers. Three groups of letters are word-for-word identical across different signers. Seven distinct template variants targeted different demographics (fiscal conservatives, small business owners, union members, tech advocates).</p>
+<div class="update">
+<div class="update-date">Updated March 14, 2026</div>
+<p>The campaign's web infrastructure has been identified, including the CongressWeb account, distribution URL, and a direct link from the Chamber's homepage. <a href="#update-march-14">See update below.</a></p>
+</div>
+
+<p><span class="dateline">LANSING, Mich.</span> -- All 12 letters of support submitted to the Lansing City Council for the February 9, 2026 Deep Green Technologies data center hearing were routed through <a href="https://thesoftedge.com/products-services/advocacy-software/">The Soft Edge</a>, a commercial advocacy platform that sends pre-written template emails on behalf of signers. Three groups of letters are word-for-word identical across different signers. Seven distinct template variants targeted different demographics (fiscal conservatives, small business owners, union members, tech advocates).</p>
 
 <p>One of those letters came from Steve Japinga, Senior Vice President of Public Affairs at the <a href="https://www.lansingchamber.org/our-team/">Lansing Regional Chamber of Commerce</a> and operational manager of the LRC-PAC (MiTN Committee 000516). He identified himself only as "a member of the local business community." He did not disclose his Chamber title, his PAC role, or any institutional affiliation.</p>
 
@@ -129,13 +134,15 @@
 
 <p>At the <a href="https://lansingmi.portal.civicclerk.com/event/7678">Lansing Planning Commission November 5, 2025 meeting</a>, four connected participants appeared: Hovey spoke as Deep Green's PR representative, Daman spoke as Chamber CEO, Japinga spoke as a Chamber representative and submitted the formal Chamber letter, and that letter CC'd Mayor Schor and Planning Director Van Fossen.</p>
 
-<h2>Open Question: Who Purchased the Campaign?</h2>
+<h2>Open Question: Who Purchased and Administered the Campaign?</h2>
 
-<p>The Soft Edge is a paid platform. Someone purchased the campaign account, drafted the templates, and enrolled the signers. The account holder has not been identified. Possible account holders include: the Chamber (Japinga has the loopback signature and institutional access), Bellwether PR (the 7-audience segmentation is consistent with professional PR work, and the messaging matches Deep Green's talking points), Deep Green Technologies (the talking points originated with the company), or the LRC-PAC (Japinga manages PAC operations, though MiTN expenditure records do not show payments to The Soft Edge).</p>
+<p>The Soft Edge is a paid platform. The CongressWeb account is registered under "Deep Green Technologies USA LLC" (see <a href="#update-march-14">March 14, 2026 update below</a>). This identifies the organization name on the account but does not resolve who contracted with The Soft Edge, who paid for the service, who drafted the seven template variants, or who enrolled the seven loopback senders. A PR firm or trade association can register a campaign under a client's name.</p>
+
+<p>Possible purchasers/administrators remain: Deep Green Technologies (the account bears their name and the talking points originated with the company), Bellwether PR (Deep Green's retained communications firm, and the 7-audience segmentation is consistent with professional PR work), the Chamber (Japinga has the loopback signature and institutional access), or the LRC-PAC (Japinga manages PAC operations, though MiTN expenditure records do not show payments to The Soft Edge).</p>
 
 <p>The Chamber's 2021 IRS Form 990, available through <a href="https://projects.propublica.org/nonprofits/">ProPublica Nonprofit Explorer</a>, shows $153,968 in "Other fees" on Part IX. This amount falls at 9.3% of total expenses, just below the 10% threshold that would require itemization on Schedule O.</p>
 
-<p>A FOIA request to the City of Lansing for contracts or invoices with The Soft Edge, Inc. could identify the account holder.</p>
+<p>A FOIA request to the City of Lansing for contracts or invoices with The Soft Edge, Inc. could identify the purchaser. The Soft Edge's client services agreement and payment records are not public.</p>
 
 <h2>Precedent</h2>
 
@@ -153,9 +160,42 @@
 
 <hr>
 
+<h2 id="update-march-14">Update: March 14, 2026 — Campaign Infrastructure Identified</h2>
+
+<p>The advocacy campaign's web infrastructure has been identified. The letters were generated through a CongressWeb account registered to <strong>Deep Green Technologies USA LLC</strong>, hosted at <code>congressweb.com/DGT/1</code>. CongressWeb is a product of The Soft Edge; per <a href="https://support.thedatabank.com/hc/en-us/articles/204589214-Advocacy-powered-by-The-SoftEdge-Part-1">platform documentation</a>, the URL path uses the client organization's acronym. In this case: "DGT." The account is the only CongressWeb account involved; no accounts exist at the obvious acronyms for the Lansing Regional Chamber or Bellwether PR.</p>
+
+<p>The campaign was distributed via <code>takeaction.io/dgt/tell-lansing-city-council-to-vote-yes-on-the-deep-green-data-center</code>. The domain <code>takeaction.io</code> is owned by The Soft Edge (it redirects to <code>thesoftedge.com</code>), serving as a brandless URL that does not reveal the platform to recipients.</p>
+
+<figure>
+<img src="../img/deep-green-soft-edge.png" alt="Screenshot of the Deep Green Soft Edge campaign page showing the form at congressweb.com/DGT/1 with the heading 'Tell Lansing City Council to VOTE YES on the Deep Green Data Center,' campaign copy about the $120 million project, an address entry form with a Group dropdown, a Messages panel, and a Powered by SoftEdge footer">
+<figcaption>The Soft Edge campaign page at <code>congressweb.com/DGT/1</code>. Visitors enter an address, select a "Group" from a dropdown menu, and are presented with pre-written messages to send to elected officials. The "Powered by Soft Edge" branding is visible at the bottom. Screenshot captured March 14, 2026.</figcaption>
+</figure>
+
+<p>The screenshot reveals details not visible in the submitted letters. The form includes a <strong>"Group" dropdown menu</strong>, which is the mechanism behind the seven template variants identified in the original analysis. The Soft Edge's product literature describes this as targeting: different messages are shown based on which group a signer selects or is assigned to. The "Messages" panel states: "Your messages will appear here for review after you enter your address." Signers saw pre-written text after entering their location, not before.</p>
+
+<p>A cache-busting timestamp on the campaign's CSS file (<code>DGT_new.css?02032026084517</code>) places the last configuration change at <strong>February 3, 2026, 8:45 AM</strong>. That is six days before the council vote and the same date as the earliest batch of letter submissions identified in the email header forensics. The embedded form was configured with <code>hasHCaptcha = false</code> (no human verification) and three display settings that suppress platform identification within the form (<code>show_site_menu</code>, <code>show_action_titles</code>, and <code>show_action_descriptions</code> all set to <code>false</code>).</p>
+
+<h3>Timeline: Private Distribution, Then Public</h3>
+
+<p>The campaign page had never been captured by the Wayback Machine and returned zero search engine results prior to March 14, 2026. The 12 template letters in the February 9 council packet were generated before the campaign had any known public link. The earliest batch of submissions occurred on February 3, and all 12 appeared in the hearing packet six days later. The original analysis describing the campaign as privately distributed remains accurate for that initial batch.</p>
+
+<p>After those letters were already in the council's hands, the <a href="https://www.lansingchamber.org/">Lansing Regional Chamber of Commerce</a> added a link to the campaign on its homepage. A callout block displays a Deep Green rendering, the campaign's talking points, and a green call-to-action reading <strong>"Share Your Support Today!"</strong> All three elements link to the <code>takeaction.io/dgt/</code> URL. The promotional image was uploaded to the Chamber's WordPress site on or around <strong>February 11, 2026</strong> (per HTTP <code>Last-Modified</code> header). That was two days after the council received the template letters.</p>
+
+<figure>
+<img src="../img/lrcc-soft-edge.png" alt="Screenshot of the Lansing Regional Chamber of Commerce homepage showing a callout block with a Deep Green data center rendering, campaign copy urging a YES vote, and a green Share Your Support Today call-to-action link">
+<figcaption>The Lansing Regional Chamber of Commerce homepage links directly to the Soft Edge campaign at <code>takeaction.io/dgt/</code>. The callout was added after the 12 template letters had already been submitted to the City Council. Source: <a href="https://www.lansingchamber.org/">lansingchamber.org</a>, captured March 14, 2026.</figcaption>
+</figure>
+
+<p>This identifies the <em>account name</em> but does not by itself answer who purchased, administered, or funded the campaign. A PR firm or trade association can register a campaign under a client's name. The Chamber homepage link shows the campaign was distributed through the trade association whose SVP of Public Affairs authored <a href="https://www.lansingchamber.org/2026/01/08/proposed-downtown-lansing-data-center-public-information-sessions-announced/">two</a> of four Chamber press releases about Deep Green, serves as the <a href="https://mi-boe.entellitrak.com/">operational contact for LRC-PAC</a>, and submitted one of the 12 template letters with the administrator loopback signature.</p>
+
+<p>The campaign page, CSS file, Chamber homepage, and associated assets were archived on March 14, 2026.</p>
+
+<hr>
+
 <div class="methodology">
 <h3>Methodology</h3>
-<p>This analysis is based entirely on publicly available documents: meeting packets from the Lansing CivicClerk portal (<a href="https://lansingmi.portal.civicclerk.com/event/7868/files">February 9, 2026 Council meeting</a>, <a href="https://lansingmi.portal.civicclerk.com/event/7678">November 5, 2025 Planning Commission meeting</a>), campaign finance records from MiTN, IRS Form 990 filings via <a href="https://projects.propublica.org/nonprofits/">ProPublica Nonprofit Explorer</a>, and the <a href="https://www.lansingchamber.org/our-team/">Lansing Regional Chamber of Commerce website</a>. Email header analysis was performed on the original PDF files attached to the Council hearing packet. The plain-text (.txt) versions of the same documents strip email headers and do not contain the forensic evidence described here. Every claim in this article can be verified by downloading the source documents from the links provided.</p>
+<p>This analysis is based entirely on publicly available documents: meeting packets from the Lansing CivicClerk portal (<a href="https://lansingmi.portal.civicclerk.com/event/7868/files">February 9, 2026 Council meeting</a>, <a href="https://lansingmi.portal.civicclerk.com/event/7678">November 5, 2025 Planning Commission meeting</a>), campaign finance records from MiTN, IRS Form 990 filings via <a href="https://projects.propublica.org/nonprofits/">ProPublica Nonprofit Explorer</a>, and the <a href="https://www.lansingchamber.org/our-team/">Lansing Regional Chamber of Commerce website</a>. Email header analysis was performed on the original PDF files attached to the Council hearing packet. The plain-text (.txt) versions of the same documents strip email headers and do not contain the forensic evidence described here.</p>
+<p>The March 14 update is based on the HTML source code of publicly accessible pages at <code>congressweb.com/DGT/</code> and <code>takeaction.io</code>, CSS file metadata, ExifTool analysis of the campaign logo asset, <a href="https://support.thedatabank.com/hc/en-us/articles/204589214-Advocacy-powered-by-The-SoftEdge-Part-1">The Soft Edge's own platform documentation</a> describing CongressWeb URL conventions, and the full HTML source of the <a href="https://www.lansingchamber.org/">Lansing Regional Chamber of Commerce homepage</a> (extracted via <code>curl</code>, confirming three <code>takeaction.io/dgt/</code> links in a callout block). The campaign page, Chamber homepage, and associated assets were archived on March 14, 2026. Every claim in this article can be verified by downloading the source documents from the links provided.</p>
 </div>
 
 </article>
