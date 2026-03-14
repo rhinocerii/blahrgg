@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555"/>
+    </marker>
+    <marker id="arr-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#b91c1c"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="600" fill="#fafafa"/>
+
+  <!-- Title -->
+  <text x="450" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a1a1a">The Chamber's Deep Green Campaign Infrastructure</text>
+
+  <!-- LRCC center box -->
+  <rect x="310" y="60" width="280" height="70" rx="6" fill="#1e3a5f" stroke="#1e3a5f"/>
+  <text x="450" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">Lansing Regional Chamber</text>
+  <text x="450" y="106" text-anchor="middle" font-size="11" fill="#a8c4e0">of Commerce (LRCC)</text>
+
+  <!-- LRC-PAC box -->
+  <rect x="30" y="190" width="200" height="55" rx="5" fill="#7f1d1d" stroke="#7f1d1d"/>
+  <text x="130" y="213" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">LRC-PAC</text>
+  <text x="130" y="228" text-anchor="middle" font-size="10" fill="#f5c6c6">MiTN Committee 000516</text>
+
+  <!-- Soft Edge box -->
+  <rect x="670" y="190" width="200" height="55" rx="5" fill="#4a4a4a" stroke="#4a4a4a"/>
+  <text x="770" y="213" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">The Soft Edge</text>
+  <text x="770" y="228" text-anchor="middle" font-size="10" fill="#ccc">takeaction.io/dgt/</text>
+
+  <!-- 7 Members box -->
+  <rect x="580" y="320" width="200" height="55" rx="5" fill="#2d5016" stroke="#2d5016"/>
+  <text x="680" y="343" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">7 of 12 Letter Senders</text>
+  <text x="680" y="358" text-anchor="middle" font-size="10" fill="#b6d99e">Chamber members/affiliates</text>
+
+  <!-- 4 Press Releases box -->
+  <rect x="310" y="320" width="200" height="55" rx="5" fill="#4a4a4a" stroke="#4a4a4a"/>
+  <text x="410" y="343" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">4 Press Releases</text>
+  <text x="410" y="358" text-anchor="middle" font-size="10" fill="#ccc">Jan-Mar 2026, zero disclosures</text>
+
+  <!-- Council box -->
+  <rect x="120" y="460" width="250" height="55" rx="5" fill="#1a1a1a" stroke="#1a1a1a"/>
+  <text x="245" y="483" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">Lansing City Council</text>
+  <text x="245" y="498" text-anchor="middle" font-size="10" fill="#aaa">6 of 8 members received PAC funds</text>
+
+  <!-- 12 Template Letters box -->
+  <rect x="530" y="460" width="250" height="55" rx="5" fill="#4a4a4a" stroke="#4a4a4a"/>
+  <text x="655" y="483" text-anchor="middle" font-size="12" font-weight="bold" fill="#fff">12 Template Letters</text>
+  <text x="655" y="498" text-anchor="middle" font-size="10" fill="#ccc">Feb 9 Council packet</text>
+
+  <!-- Arrows: LRCC to LRC-PAC -->
+  <line x1="370" y1="130" x2="180" y2="190" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="240" y="155" font-size="9" fill="#555">same address, staff, treasurer</text>
+
+  <!-- Arrows: LRCC to Soft Edge -->
+  <line x1="530" y1="130" x2="720" y2="190" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="620" y="148" font-size="9" fill="#555">homepage links to</text>
+
+  <!-- Arrows: LRCC to Press Releases -->
+  <line x1="430" y1="130" x2="415" y2="320" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="440" y="230" font-size="9" fill="#555">authored by Japinga (2 of 4)</text>
+
+  <!-- Arrows: LRCC to 7 Members -->
+  <line x1="520" y1="130" x2="640" y2="320" stroke="#2d5016" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="610" y="260" font-size="9" fill="#2d5016">members, awardees,</text>
+  <text x="610" y="272" font-size="9" fill="#2d5016">policy committee, staff</text>
+
+  <!-- Arrows: LRC-PAC to Council (red = money) -->
+  <line x1="130" y1="245" x2="200" y2="460" stroke="#b91c1c" stroke-width="2" marker-end="url(#arr-red)"/>
+  <text x="110" y="360" font-size="10" font-weight="bold" fill="#b91c1c">$25,750</text>
+  <text x="110" y="374" font-size="9" fill="#b91c1c">to 6 of 8 members</text>
+
+  <!-- Arrows: Soft Edge to 12 Letters -->
+  <line x1="770" y1="245" x2="700" y2="460" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="760" y="370" font-size="9" fill="#555">generates</text>
+
+  <!-- Arrows: 7 Members to Soft Edge -->
+  <line x1="720" y1="320" x2="750" y2="245" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="762" y="290" font-size="9" fill="#555">send via</text>
+
+  <!-- Arrows: 12 Letters to Council -->
+  <line x1="530" y1="487" x2="370" y2="487" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="450" y="480" font-size="9" fill="#555">submitted to</text>
+
+  <!-- Arrows: Press Releases to Council (influence) -->
+  <line x1="350" y1="375" x2="280" y2="460" stroke="#555" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="280" y="420" font-size="9" fill="#555">urge approval</text>
+
+  <!-- Source line -->
+  <text x="450" y="558" text-anchor="middle" font-size="9" fill="#999">Sources: MiTN Committee 000516, LRCC member directory, lansingchamber.org, congressweb.com/DGT/,</text>
+  <text x="450" y="570" text-anchor="middle" font-size="9" fill="#999">CivicClerk Event 7868, IRS Form 990 EIN 38-0745180. Diagram: March 14, 2026.</text>
+
+  <!-- Key -->
+  <line x1="30" y1="555" x2="60" y2="555" stroke="#b91c1c" stroke-width="2"/>
+  <text x="65" y="559" font-size="9" fill="#555">= money</text>
+  <line x1="120" y1="555" x2="150" y2="555" stroke="#555" stroke-width="1.5"/>
+  <text x="155" y="559" font-size="9" fill="#555">= organizational/operational connection</text>
+</svg>
