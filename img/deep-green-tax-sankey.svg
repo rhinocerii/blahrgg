@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 580" width="900" height="580">
+<rect width="900" height="580" fill="#ffffff"/>
+<text x="450" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="bold" fill="#1f2937">Where Does the $933K Go?</text>
+<text x="450" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6b7280">Projected annual property tax from the Deep Green data center, traced through Michigan TIF law</text>
+<rect x="30" y="80" width="110" height="260" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="85" y="200" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="bold" fill="#1f2937">$933,081</text>
+<text x="85" y="218" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#6b7280">Annual Property</text>
+<text x="85" y="230" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#6b7280">Tax (LEAP est.)</text>
+<rect x="260" y="80" width="210" height="126.24843931019922" rx="4" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="270" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#dc2626">TIFA CAPTURED</text>
+<text x="460" y="98" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#dc2626">~$453K</text>
+<text x="274" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">City operating</text>
+<text x="456" y="114" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$232K</text>
+<text x="274" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">County operating</text>
+<text x="456" y="128" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$81K</text>
+<text x="274" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">LCC</text>
+<text x="456" y="142" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$45K</text>
+<text x="274" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">City public safety</text>
+<text x="456" y="156" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$42K</text>
+<text x="274" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">CATA transit</text>
+<text x="456" y="170" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$36K</text>
+<text x="274" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">County juv. justice</text>
+<text x="456" y="184" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$17K</text>
+<rect x="260" y="218.24843931019922" width="210" height="111.21043082004671" rx="4" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+<text x="270" y="236.24843931019922" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#16a34a">FLOWS THROUGH</text>
+<text x="460" y="236.24843931019922" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="#16a34a">~$399K</text>
+<text x="274" y="252.24843931019922" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">Lansing Schools</text>
+<text x="456" y="252.24843931019922" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$268K</text>
+<text x="274" y="266.2484393101992" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">State Education Tax</text>
+<text x="456" y="266.2484393101992" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$72K</text>
+<text x="274" y="280.2484393101992" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#1f2937">Ingham ISD</text>
+<text x="456" y="280.2484393101992" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">$59K</text>
+<rect x="260" y="341.45887013024594" width="210" height="22.541129869754073" rx="4" fill="#f9fafb" stroke="#9ca3af" stroke-width="1"/>
+<text x="270" y="357.45887013024594" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#9ca3af">Library + other (~$81K)</text>
+<path d="M140,80 C190,80 210,80 260,80 L260,206.24843931019922 C210,206.24843931019922 220,206.24843931019922 140,206.24843931019922 Z" fill="#dc2626" opacity="0.15"/>
+<path d="M140,80 C190,80 210,80 260,80" fill="none" stroke="#dc2626" stroke-width="1" opacity="0.4"/>
+<path d="M140,206.24843931019922 C190,206.24843931019922 210,206.24843931019922 260,206.24843931019922" fill="none" stroke="#dc2626" stroke-width="1" opacity="0.4"/>
+<path d="M140,206.24843931019922 C190,206.24843931019922 210,218.24843931019922 260,218.24843931019922 L260,329.45887013024594 C210,329.45887013024594 220,317.45887013024594 140,317.45887013024594 Z" fill="#16a34a" opacity="0.12"/>
+<path d="M140,206.24843931019922 C190,206.24843931019922 210,218.24843931019922 260,218.24843931019922" fill="none" stroke="#16a34a" stroke-width="1" opacity="0.4"/>
+<path d="M140,317.45887013024594 C190,317.45887013024594 210,329.45887013024594 260,329.45887013024594" fill="none" stroke="#16a34a" stroke-width="1" opacity="0.4"/>
+<path d="M140,317.45887013024594 C190,317.45887013024594 210,341.45887013024594 260,341.45887013024594 L260,364 C210,364 220,340 140,340 Z" fill="#9ca3af" opacity="0.1"/>
+<rect x="590" y="80" width="280" height="36" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1"/>
+<text x="730" y="102" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Lansing Center debt</text>
+<path d="M470,143.1242196550996 C530,143.1242196550996 530,98 590,98" fill="none" stroke="#f97316" stroke-width="7.890527456887451" opacity="0.35"/>
+<rect x="590" y="124" width="280" height="36" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1"/>
+<text x="730" y="146" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Jackson Field debt</text>
+<path d="M470,143.1242196550996 C530,143.1242196550996 530,142 590,142" fill="none" stroke="#f97316" stroke-width="7.890527456887451" opacity="0.35"/>
+<rect x="590" y="168" width="280" height="36" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1"/>
+<text x="730" y="190" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">LEDC operations</text>
+<path d="M470,143.1242196550996 C530,143.1242196550996 530,186 590,186" fill="none" stroke="#f97316" stroke-width="7.890527456887451" opacity="0.35"/>
+<rect x="590" y="212" width="280" height="36" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1"/>
+<text x="730" y="234" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">TIFA fund balance ($21.9M)</text>
+<path d="M470,143.1242196550996 C530,143.1242196550996 530,230 590,230" fill="none" stroke="#f97316" stroke-width="7.890527456887451" opacity="0.35"/>
+<text x="530" y="74" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626" font-style="italic">TIFA captures</text>
+<text x="490" y="267.85365472022255" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a" font-weight="bold">Schools, state, ISD</text>
+<text x="490" y="281.85365472022255" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#16a34a">receive their money</text>
+<text x="490" y="293.85365472022255" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#16a34a">(exempt from TIFA capture)</text>
+<line x1="470" y1="273.85365472022255" x2="484" y2="273.85365472022255" stroke="#16a34a" stroke-width="1.5" marker-end="none"/>
+<text x="30" y="380" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="bold" fill="#1f2937">What the City General Fund Actually Gets</text>
+<text x="30" y="413" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#1f2937">BWL equity increase (6% of gross)</text>
+<rect x="280" y="396" width="285.7142857142857" height="26" rx="3" fill="#3b82f6" opacity="0.8"/>
+<text x="573.7142857142858" y="413" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#3b82f6">$1.0M</text>
+<text x="643.7142857142858" y="413" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">0.6% of general fund</text>
+<text x="30" y="449" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#1f2937">Land Sale (one-time)</text>
+<rect x="280" y="432" width="400" height="26" rx="3" fill="#3b82f6" opacity="0.8"/>
+<text x="688" y="449" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#3b82f6">$1.4M</text>
+<text x="758" y="449" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">2023 appraisal</text>
+<text x="450" y="568" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8" fill="#6b7280">Sources: LEAP estimate (LSJ, Mar 5, 2026) | TIFA capture per MCL 125.4301(aa) | Base value: BS&amp;A Online | Mayor quotes: Feb 9, 2026 City Council meeting (youtu.be/eg1Fhh1ecb4)</text>
+</svg>

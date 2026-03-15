@@ -137,6 +137,21 @@ article .update .update-date {
   letter-spacing: 0.03em;
 }
 
+.post-list .badge-place {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: bold;
+  color: #555;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 0.1rem 0.35rem;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
 @media (max-width: 600px) {
   body { padding: 1rem; }
   article h1 { font-size: 1.3rem; }
