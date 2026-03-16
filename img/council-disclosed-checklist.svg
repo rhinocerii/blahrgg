@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<rect width="800" height="480" fill="#ffffff"/>
+<text x="400" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#1f2937">What the Public Knows vs. What Is Hidden</text>
+<text x="400" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6b7280">Public information about the Deep Green project as of March 15, 2026</text>
+<rect x="30" y="75" width="360" height="30" rx="4" fill="#16a34a" opacity="0.9"/>
+<text x="210" y="95" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="white">Disclosed</text>
+<text x="38" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Project cost: &quot;$120 million investment&quot;</text>
+<text x="38" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Capacity: 24 MW (8 grid + 16 fuel cell)</text>
+<text x="38" y="169" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="169" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Site: 200 block S. Cedar / S. Larch</text>
+<text x="38" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Land sale price: $1.4 million</text>
+<text x="38" y="221" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="221" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Fuel cell supplier: Bloom Energy</text>
+<text x="38" y="247" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="247" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Fuel cell operator: Bloom Energy (Mar 5)</text>
+<text x="38" y="273" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="273" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">BWL contract duration: 20 years</text>
+<text x="38" y="299" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="299" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Electricity rate: &quot;standard commercial&quot;</text>
+<text x="38" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Cooling: closed-loop water-glycol (Dow)</text>
+<text x="38" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Jobs: ~35 construction, ~15 permanent</text>
+<text x="38" y="377" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#16a34a">&#10003;</text>
+<text x="52" y="377" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Pennies for Power: up to $120K/year</text>
+<rect x="420" y="75" width="360" height="30" rx="4" fill="#dc2626" opacity="0.9"/>
+<text x="600" y="95" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="bold" fill="white">Not Disclosed</text>
+<text x="428" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">BWL-Deep Green power purchase agreement</text>
+<text x="428" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Bloom service contract (performance, costs)</text>
+<text x="428" y="169" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="169" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Fuel cell transfer terms (warranty, liability)</text>
+<text x="428" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="195" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Hazardous waste handling provisions</text>
+<text x="428" y="221" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="221" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Fuel cell replacement triggers and cost allocation</text>
+<text x="428" y="247" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="247" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Actual fuel cell purchase price</text>
+<text x="428" y="273" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="273" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">BWL projected operating costs for fuel cells</text>
+<text x="428" y="299" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="299" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Environmental impact study (none done)</text>
+<text x="428" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="325" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Independent noise study (none done)</text>
+<text x="428" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Independent fiscal impact analysis (none done)</text>
+<text x="428" y="377" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="377" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Who Peffley signed the NDA with</text>
+<text x="428" y="403" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="403" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Whether BWL Board authorized Peffley's NDA</text>
+<text x="428" y="429" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">&#10007;</text>
+<text x="442" y="429" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">TIFA capture impact on city general fund *</text>
+<text x="442" y="461" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8" fill="#6b7280">* Mayor corrected on camera Feb 9 after initially stating taxes go to general fund</text>
+<text x="400" y="472" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7" fill="#6b7280">Sources: BWL Board packets (Nov 2025); Feb 9 and Mar 9, 2026 Council meetings; LSJ (Mar 5, 2026); BWL press release (Nov 5, 2025)</text>
+</svg>

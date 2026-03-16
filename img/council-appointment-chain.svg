@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Every Oversight Body Is Appointed by the Mayor</text>
+<text x="400" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6b7280">Who reviews the Deep Green project? All roads lead to one appointing authority.</text>
+<rect x="300" y="70" width="200" height="50" rx="6" fill="#1f2937" />
+<text x="400" y="92" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="bold" fill="white">Mayor Andy Schor</text>
+<text x="400" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#9ca3af">Appoints all bodies below</text>
+<line x1="400" y1="120" x2="220" y2="170" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="140" y="170" width="160" height="80" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+<text x="220" y="188" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">Planning Commission</text>
+<text x="220" y="206" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Voted 5-2 for rezoning</text>
+<text x="220" y="220" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#f97316">(initially 4-3 against)</text>
+<line x1="400" y1="120" x2="400" y2="170" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="320" y="170" width="160" height="80" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+<text x="400" y="188" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">BWL Board</text>
+<text x="400" y="206" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">8 commissioners</text>
+<text x="400" y="220" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#f97316">Oversees fuel cell contract</text>
+<line x1="400" y1="120" x2="580" y2="170" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="500" y="170" width="160" height="80" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+<text x="580" y="188" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">TIFA / LBRA / LEDC</text>
+<text x="580" y="206" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Captures tax increment</text>
+<text x="580" y="220" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#f97316">$7.76M/year</text>
+<line x1="400" y1="120" x2="220" y2="290" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="140" y="290" width="160" height="80" rx="4" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+<text x="220" y="308" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">Dir. of Econ Dev</text>
+<text x="220" y="326" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Rawley Van Fossen</text>
+<text x="220" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Rezoning, parcel owner,
+TIFA board member</text>
+<line x1="400" y1="120" x2="400" y2="290" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="320" y="290" width="160" height="80" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+<text x="400" y="308" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">City Assessor</text>
+<text x="400" y="326" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Reports to Van Fossen</text>
+<text x="400" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#f97316">Sets values for TIF capture</text>
+<line x1="400" y1="120" x2="580" y2="290" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="500" y="290" width="160" height="80" rx="4" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+<text x="580" y="308" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">City Attorney</text>
+<text x="580" y="326" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Legal counsel</text>
+<text x="580" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#f97316">Advised on rezoning process</text>
+<rect x="60" y="400" width="680" height="36" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+<text x="400" y="415" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Three of four Planning Commissioners who voted No in December flipped to Yes in March.</text>
+<text x="400" y="429" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">All are mayoral appointees. No independent oversight body reviews this project.</text>
+<text x="400" y="452" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7" fill="#6b7280">Sources: City of Lansing Boards and Commissions PDF (Feb 24, 2026); CivicClerk events 7678, 8189; FY2026 Budget Section D</text>
+</svg>
