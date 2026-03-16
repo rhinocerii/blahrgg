@@ -2,11 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rhinocerii.github.io/blahrgg/</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-03-16</lastmod>
   </url>
   <url>
     <loc>https://rhinocerii.github.io/blahrgg/about.html</loc>
     <lastmod>2026-03-10</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/council-briefing.html</loc>
+    <lastmod>2026-03-16</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/deep-green-tax-revenue.html</loc>
+    <lastmod>2026-03-15</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/bwl-fuel-cell-liability.html</loc>
+    <lastmod>2026-03-15</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/lrcc-astroturf-distribution.html</loc>
+    <lastmod>2026-03-14</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/lrcc-990-financial-opacity.html</loc>
+    <lastmod>2026-03-14</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/deep-green-soft-edge.html</loc>
+    <lastmod>2026-03-14</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/lrc-pac-chamber-machine.html</loc>
+    <lastmod>2026-03-14</lastmod>
   </url>
   <url>
     <loc>https://rhinocerii.github.io/blahrgg/posts/bwl-steam-conversion.html</loc>
@@ -21,15 +49,7 @@
     <lastmod>2026-03-11</lastmod>
   </url>
   <url>
-    <loc>https://rhinocerii.github.io/blahrgg/posts/lrc-pac-chamber-machine.html</loc>
-    <lastmod>2026-03-11</lastmod>
-  </url>
-  <url>
     <loc>https://rhinocerii.github.io/blahrgg/posts/hovey-revolving-door.html</loc>
-    <lastmod>2026-03-10</lastmod>
-  </url>
-  <url>
-    <loc>https://rhinocerii.github.io/blahrgg/posts/deep-green-soft-edge.html</loc>
     <lastmod>2026-03-10</lastmod>
   </url>
 </urlset>
