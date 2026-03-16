@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+<rect width="900" height="320" fill="#ffffff"/>
+<text x="450" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Four Months of Drip Disclosure</text>
+<text x="450" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6b7280">What the public was told about the fuel cells, and when</text>
+<line x1="120" y1="110" x2="800" y2="110" stroke="#e5e7eb" stroke-width="3"/>
+<circle cx="120" cy="110" r="8" fill="#16a34a"/>
+<text x="120" y="90" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="bold" fill="#1f2937">Nov 5, 2025</text>
+<text x="120" y="75" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">BWL press release</text>
+<text x="120" y="138" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#16a34a">&quot;24MW data center, BWL provides power&quot;</text>
+<text x="120" y="154" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Hidden: Fuel cells, Bloom, operator role</text>
+<circle cx="310.4" cy="110" r="8" fill="#f97316"/>
+<text x="310.4" y="90" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="bold" fill="#1f2937">Nov 6, 2025</text>
+<text x="310.4" y="75" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">BWL board meeting</text>
+<text x="310.4" y="138" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#16a34a">Peffley confirms fuel cells exist</text>
+<text x="310.4" y="154" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Hidden: Company name (NDA), operator role</text>
+<circle cx="514.4" cy="110" r="8" fill="#f97316"/>
+<text x="514.4" y="90" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="bold" fill="#1f2937">Jan 16, 2026</text>
+<text x="514.4" y="75" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">WKAR report</text>
+<text x="514.4" y="138" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#16a34a">Bloom identified as supplier</text>
+<text x="514.4" y="154" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Hidden: Operator role</text>
+<circle cx="800" cy="110" r="8" fill="#dc2626"/>
+<text x="800" y="90" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="bold" fill="#1f2937">Mar 5, 2026</text>
+<text x="800" y="75" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Lansing State Journal</text>
+<text x="800" y="138" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#16a34a">Bloom revealed as operator, not just supplier</text>
+<circle cx="120" cy="190" r="5" fill="#16a34a"/>
+<text x="130" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Full disclosure</text>
+<circle cx="240" cy="190" r="5" fill="#f97316"/>
+<text x="250" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Partial (key details withheld)</text>
+<circle cx="430" cy="190" r="5" fill="#dc2626"/>
+<text x="440" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Revealed by press, not administration</text>
+<rect x="60" y="225" width="780" height="50" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+<text x="450" y="245" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-style="italic" fill="#1f2937">Commissioner Schrader asked if the fuel cell company was from California.</text>
+<text x="450" y="261" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-style="italic" fill="#1f2937">Peffley: "couldn't respond due to a nondisclosure agreement."</text>
+<text x="820" y="271" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8" fill="#6b7280">BWL COW, Nov 6, 2025 (Board packet p. 39)</text>
+<text x="450" y="312" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7" fill="#6b7280">Sources: BWL press release (Nov 5, 2025); BWL Board packet (Nov 18, 2025, p. 39); WKAR (Jan 16, 2026); Lansing State Journal (Mar 5, 2026)</text>
+</svg>

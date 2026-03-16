@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" width="820" height="380">
+<rect width="820" height="380" fill="#ffffff"/>
+<text x="410" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#1f2937">What 20 Years of Fuel Cells Could Cost</text>
+<text x="410" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6b7280">BWL would own the fuel cells. Replacement cost depends on how long they last.</text>
+<text x="170" y="100" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Last 20 years (claimed)</text>
+<rect x="180" y="80" width="56.14285714285714" height="32" rx="2" fill="#16a34a" opacity="0.5"/>
+<text x="245.14285714285714" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#16a34a">$60M</text>
+<text x="307.1428571428571" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">1x replacement</text>
+<text x="170" y="142" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Last 10 years</text>
+<rect x="180" y="122" width="56.14285714285714" height="32" rx="2" fill="#3b82f6" opacity="0.5"/>
+<rect x="237.14285714285714" y="122" width="56.14285714285714" height="32" rx="2" fill="#3b82f6" opacity="0.7"/>
+<text x="302.2857142857143" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#3b82f6">$120M</text>
+<text x="364.2857142857143" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">2x replacements</text>
+<text x="170" y="184" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Last 7 years (Delaware)</text>
+<rect x="180" y="164" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.5"/>
+<rect x="237.14285714285714" y="164" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.6333333333333333"/>
+<rect x="294.2857142857143" y="164" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.7666666666666666"/>
+<text x="359.42857142857144" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#f97316">$180M</text>
+<text x="421.42857142857144" y="184" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">3x replacements</text>
+<text x="170" y="226" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Last 5 years (Bloom claim)</text>
+<rect x="180" y="206" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.5"/>
+<rect x="237.14285714285714" y="206" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.6"/>
+<rect x="294.2857142857143" y="206" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.7"/>
+<rect x="351.42857142857144" y="206" width="56.14285714285714" height="32" rx="2" fill="#f97316" opacity="0.8"/>
+<text x="416.57142857142856" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#f97316">$240M</text>
+<text x="478.57142857142856" y="226" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">4x replacements</text>
+<text x="170" y="268" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Last 3 years (Hindenburg)</text>
+<rect x="180" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.5"/>
+<rect x="237.14285714285714" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.5571428571428572"/>
+<rect x="294.2857142857143" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.6142857142857143"/>
+<rect x="351.42857142857144" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.6714285714285715"/>
+<rect x="408.57142857142856" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.7285714285714285"/>
+<rect x="465.7142857142857" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.7857142857142858"/>
+<rect x="522.8571428571429" y="248" width="56.142857142857146" height="32" rx="2" fill="#dc2626" opacity="0.8428571428571429"/>
+<text x="588" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#dc2626">$420M</text>
+<text x="650" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">7x replacements</text>
+<text x="180" y="305" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Estimated initial fuel cell cost: ~$48-72M (16 MW at ~$3,000-$4,500/kW, current pricing)</text>
+<text x="180" y="321" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">Deep Green would pay for the first set. BWL would own all replacements.</text>
+<text x="410" y="372" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7" fill="#6b7280">Sources: Bloom capital cost ~$7-8K/kW (industry analysis); lifespan data from Hindenburg Research and A Better Delaware</text>
+</svg>

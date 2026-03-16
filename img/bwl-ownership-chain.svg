@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="450" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Who Builds, Who Owns, Who Operates</text>
+<text x="450" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#6b7280">The three-party structure of the Deep Green fuel cell arrangement</text>
+<rect x="50" y="80" width="200" height="100" rx="6" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+<text x="150" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="bold" fill="#3b82f6">Deep Green</text>
+<text x="150" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">UK startup (1 MW facility)</text>
+<text x="150" y="146" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Builds the facility</text>
+<text x="150" y="162" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Purchases fuel cells</text>
+<rect x="350" y="80" width="200" height="100" rx="6" fill="#fff7ed" stroke="#f97316" stroke-width="2"/>
+<text x="450" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="bold" fill="#f97316">Lansing BWL</text>
+<text x="450" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">City-owned municipal utility</text>
+<text x="450" y="146" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Would own fuel cells after transfer</text>
+<text x="450" y="162" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Would sell electricity to Deep Green</text>
+<rect x="650" y="80" width="200" height="100" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+<text x="750" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="bold" fill="#dc2626">Bloom Energy</text>
+<text x="750" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">NYSE: BE ($2B revenue)</text>
+<text x="750" y="146" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#1f2937">Would operate fuel cells</text>
+<text x="750" y="162" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" fill="#dc2626">EPA hazardous waste generator</text>
+<line x1="250" y1="120" x2="350" y2="120" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrowBlue)"/>
+<text x="300" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#3b82f6">Fuel cells (est. $48-72M)</text>
+<line x1="350" y1="140" x2="250" y2="140" stroke="#f97316" stroke-width="2" marker-end="url(#arrowOrange)"/>
+<text x="300" y="158" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#f97316">Electricity (24 MW, $16.8M/yr)</text>
+<line x1="550" y1="120" x2="650" y2="120" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed)"/>
+<text x="600" y="112" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Service contract (not public)</text>
+<line x1="650" y1="140" x2="550" y2="140" stroke="#dc2626" stroke-width="2" marker-end="url(#arrowRed2)"/>
+<text x="600" y="158" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Operates BWL-owned fuel cells</text>
+<defs>
+<marker id="arrowBlue" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#3b82f6"/></marker>
+<marker id="arrowOrange" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#f97316"/></marker>
+<marker id="arrowRed" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#dc2626"/></marker>
+<marker id="arrowRed2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#dc2626"/></marker>
+</defs>
+<text x="450" y="220" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="bold" fill="#dc2626">When something goes wrong, who is responsible?</text>
+<rect x="50" y="235" width="260" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+<text x="180" y="258" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">Fuel cells degrade early</text>
+<text x="180" y="274" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Delaware: 7 yrs actual vs. 15-21 expected</text>
+<text x="180" y="288" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">BWL would own them. Ratepayers would pay.</text>
+<rect x="330" y="235" width="260" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+<text x="460" y="258" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">Hazardous waste spill</text>
+<text x="460" y="274" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">Benzene, chromium, lead, ignitable waste</text>
+<text x="460" y="288" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">Bloom would operate. BWL would own. Who cleans up?</text>
+<rect x="610" y="235" width="260" height="70" rx="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+<text x="740" y="258" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#1f2937">Deep Green leaves</text>
+<text x="740" y="274" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#6b7280">UK startup, one 1 MW facility, $120M project</text>
+<text x="740" y="288" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#dc2626">IND-1 zoning stays. BWL would own fuel cells.</text>
+<rect x="50" y="325" width="800" height="40" rx="4" fill="#1f2937" />
+<text x="450" y="341" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="bold" fill="#fff">The contract terms that could answer these questions have not been disclosed.</text>
+<text x="450" y="357" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" fill="#9ca3af">BWL is a public body under Michigan FOIA (MCL 15.232). No board vote authorizing the NDA has been found.</text>
+<text x="450" y="412" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7" fill="#6b7280">Sources: BWL GM Peffley (Feb 9, 2026 Council meeting); BWL Board packets (Nov 2025); Hindenburg Research (Sep 2019)</text>
+</svg>
