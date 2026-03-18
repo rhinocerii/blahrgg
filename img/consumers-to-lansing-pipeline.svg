@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 1100" font-family="Arial, Helvetica, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 12 4, 0 8" fill="#b91c1c"/>
+    </marker>
+    <marker id="arr-orange" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 12 4, 0 8" fill="#b45309"/>
+    </marker>
+    <marker id="arr-blue" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 12 4, 0 8" fill="#1e3a5f"/>
+    </marker>
+    <marker id="arr-gray" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <polygon points="0 0, 12 4, 0 8" fill="#666"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="1100" fill="#f8f9fa" rx="8"/>
+
+  <text x="480" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a">How Utility Money Reaches Lansing City Hall</text>
+  <text x="480" y="52" text-anchor="middle" font-size="12" fill="#666">Every connection sourced from IRS 990s, FEC filings, LARA records, and MiTN campaign finance data</text>
+
+  <!-- ═══════ ROW 1: UTILITIES ═══════ -->
+
+  <!-- Consumers Energy -->
+  <rect x="280" y="75" width="260" height="60" rx="6" fill="#b91c1c" stroke="#7f1d1d" stroke-width="2"/>
+  <text x="410" y="100" text-anchor="middle" font-size="16" font-weight="bold" fill="white">CONSUMERS ENERGY</text>
+  <text x="410" y="118" text-anchor="middle" font-size="11" fill="#fca5a5">Michigan's largest electric utility</text>
+
+  <!-- GCSI -->
+  <rect x="680" y="75" width="240" height="60" rx="6" fill="#b91c1c" stroke="#7f1d1d" stroke-width="2"/>
+  <text x="800" y="100" text-anchor="middle" font-size="14" font-weight="bold" fill="white">GCSI (Lobbying Firm)</text>
+  <text x="800" y="118" text-anchor="middle" font-size="10" fill="#fca5a5">MI #1 · Represents Consumers · CEO's wife = LARA Dir.</text>
+
+  <!-- Arrow: Consumers → GCSI -->
+  <line x1="540" y1="105" x2="675" y2="105" stroke="#b91c1c" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="608" y="97" text-anchor="middle" font-size="10" fill="#7f1d1d">Lobbying client</text>
+
+  <!-- Arrow: Consumers → CEME -->
+  <line x1="410" y1="135" x2="410" y2="180" stroke="#b91c1c" stroke-width="3" marker-end="url(#arr)"/>
+  <text x="430" y="163" font-size="12" font-weight="bold" fill="#7f1d1d">$43M+</text>
+
+  <!-- ═══════ ROW 2: DARK MONEY C4 ═══════ -->
+
+  <rect x="260" y="185" width="300" height="70" rx="6" fill="#dc2626" stroke="#991b1b" stroke-width="2"/>
+  <text x="410" y="210" text-anchor="middle" font-size="15" font-weight="bold" fill="white">CEME</text>
+  <text x="410" y="227" text-anchor="middle" font-size="11" fill="#fca5a5">Citizens for Energizing Michigan's Economy</text>
+  <text x="410" y="242" text-anchor="middle" font-size="10" fill="#fca5a5">501(c)(4) · $12.6M war chest · Run by former Consumers lobbyist</text>
+
+  <!-- Arrow: CEME → Citizens for Better MI -->
+  <line x1="410" y1="255" x2="410" y2="305" stroke="#b91c1c" stroke-width="3" marker-end="url(#arr)"/>
+  <text x="435" y="285" font-size="12" font-weight="bold" fill="#7f1d1d">$200,000</text>
+
+  <!-- ═══════ ROW 3: FELSING NETWORK ═══════ -->
+
+  <rect x="230" y="310" width="360" height="75" rx="6" fill="#c2410c" stroke="#9a3412" stroke-width="2"/>
+  <text x="410" y="333" text-anchor="middle" font-size="14" font-weight="bold" fill="white">CITIZENS FOR A BETTER MICHIGAN</text>
+  <text x="410" y="350" text-anchor="middle" font-size="11" fill="#fed7aa">501(c)(4) · Agent: Jack Rucker · Address: Felsing's home</text>
+  <text x="410" y="367" text-anchor="middle" font-size="11" fill="#fed7aa">Part of the 428 W Lenawee dark money network (10+ orgs)</text>
+
+  <!-- Felsing box -->
+  <rect x="40" y="420" width="230" height="90" rx="6" fill="#7c3aed" stroke="#5b21b6" stroke-width="2"/>
+  <text x="155" y="445" text-anchor="middle" font-size="14" font-weight="bold" fill="white">⚖ JUDGE FELSING</text>
+  <text x="155" y="462" text-anchor="middle" font-size="10" fill="#c4b5fd">Eaton County 56A District Court</text>
+  <text x="155" y="477" text-anchor="middle" font-size="10" fill="#c4b5fd">Built the dark money network</text>
+  <text x="155" y="492" text-anchor="middle" font-size="10" fill="#c4b5fd">Still agent for one C4 (14 mo. on bench)</text>
+
+  <!-- Arrow: Citizens → Felsing network -->
+  <line x1="320" y1="385" x2="200" y2="415" stroke="#c2410c" stroke-width="2" marker-end="url(#arr-orange)"/>
+
+  <!-- Super PAC box -->
+  <rect x="40" y="540" width="230" height="75" rx="6" fill="#dc2626" stroke="#991b1b" stroke-width="2"/>
+  <text x="155" y="563" text-anchor="middle" font-size="13" font-weight="bold" fill="white">$205K SUPER PAC</text>
+  <text x="155" y="580" text-anchor="middle" font-size="10" fill="#fca5a5">"The Moderate Michigan Voice"</text>
+  <text x="155" y="595" text-anchor="middle" font-size="10" fill="#fca5a5">Felsing: treasurer ($5K paid) · $199K TV ads</text>
+  <text x="155" y="608" text-anchor="middle" font-size="9" fill="#fca5a5">Zero disclosure at FEC, MI SOS, and FCC</text>
+
+  <!-- Arrow: Felsing → Super PAC (treasurer) -->
+  <line x1="155" y1="510" x2="155" y2="535" stroke="#7c3aed" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="175" y="528" font-size="9" fill="#5b21b6">Treasurer</text>
+
+  <!-- Arrow: Felsing → Hemond Holding -->
+  <line x1="270" y1="465" x2="390" y2="465" stroke="#c2410c" stroke-width="2" marker-end="url(#arr-orange)"/>
+  <text x="330" y="458" text-anchor="middle" font-size="9" fill="#9a3412">Organized holding co.</text>
+
+  <!-- Hemond box -->
+  <rect x="395" y="430" width="250" height="80" rx="6" fill="#1e293b" stroke="#0f172a" stroke-width="2"/>
+  <text x="520" y="453" text-anchor="middle" font-size="14" font-weight="bold" fill="white">ADRIAN HEMOND</text>
+  <text x="520" y="470" text-anchor="middle" font-size="11" fill="#94a3b8">CEO, Grassroots Midwest</text>
+  <text x="520" y="485" text-anchor="middle" font-size="10" fill="#94a3b8">TV "analyst" on PBS, Bridge, WDET</text>
+  <text x="520" y="500" text-anchor="middle" font-size="10" fill="#94a3b8">(no client disclosure)</text>
+
+  <!-- Arrow: GCSI → Hemond (trained) -->
+  <line x1="800" y1="135" x2="800" y2="410" stroke="#666" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <line x1="800" y1="410" x2="650" y2="450" stroke="#666" stroke-width="1.5" stroke-dasharray="6,4" marker-end="url(#arr-gray)"/>
+  <text x="810" y="280" font-size="10" fill="#666">Trained Hemond</text>
+  <text x="810" y="295" font-size="10" fill="#666">(5 years, 2007-12)</text>
+
+  <!-- ═══════ ROW 4: GRASSROOTS MIDWEST ═══════ -->
+
+  <!-- GM box -->
+  <rect x="340" y="550" width="300" height="65" rx="6" fill="#1e293b" stroke="#0f172a" stroke-width="2"/>
+  <text x="490" y="573" text-anchor="middle" font-size="16" font-weight="bold" fill="white">GRASSROOTS MIDWEST</text>
+  <text x="490" y="593" text-anchor="middle" font-size="11" fill="#94a3b8">$3.24M from 77 committees · Advises ALL sides</text>
+  <text x="490" y="607" text-anchor="middle" font-size="10" fill="#94a3b8">110 W Lenawee, Lansing</text>
+
+  <!-- Arrow: Hemond → GM -->
+  <line x1="520" y1="510" x2="490" y2="545" stroke="#1e293b" stroke-width="2" marker-end="url(#arr-blue)"/>
+  <text x="530" y="530" font-size="9" fill="#1e293b">CEO of</text>
+
+  <!-- Arrow: GM → Super PAC -->
+  <line x1="340" y1="575" x2="275" y2="575" stroke="#b91c1c" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="308" y="567" text-anchor="middle" font-size="10" font-weight="bold" fill="#7f1d1d">$205K</text>
+
+  <!-- ═══════ ROW 5: POLITICAL ACTORS ═══════ -->
+
+  <!-- Schor -->
+  <rect x="40" y="680" width="200" height="55" rx="6" fill="#1e3a5f" stroke="#0f2640" stroke-width="2"/>
+  <text x="140" y="703" text-anchor="middle" font-size="14" font-weight="bold" fill="white">MAYOR SCHOR</text>
+  <text x="140" y="720" text-anchor="middle" font-size="11" fill="#93c5fd">$229K to GM (3 entities)</text>
+
+  <!-- Local 333 -->
+  <rect x="280" y="680" width="200" height="55" rx="6" fill="#1e3a5f" stroke="#0f2640" stroke-width="2"/>
+  <text x="380" y="703" text-anchor="middle" font-size="14" font-weight="bold" fill="white">LOCAL 333</text>
+  <text x="380" y="720" text-anchor="middle" font-size="11" fill="#93c5fd">$203K to GM · Union PAC</text>
+
+  <!-- Chamber -->
+  <rect x="520" y="680" width="200" height="55" rx="6" fill="#1e3a5f" stroke="#0f2640" stroke-width="2"/>
+  <text x="620" y="703" text-anchor="middle" font-size="14" font-weight="bold" fill="white">CHAMBER PAC</text>
+  <text x="620" y="720" text-anchor="middle" font-size="11" fill="#93c5fd">$32K to GM · LRC-PAC</text>
+
+  <!-- Arrows: GM → political actors -->
+  <line x1="410" y1="615" x2="140" y2="675" stroke="#1e3a5f" stroke-width="2" marker-end="url(#arr-blue)"/>
+  <line x1="490" y1="615" x2="380" y2="675" stroke="#1e3a5f" stroke-width="2" marker-end="url(#arr-blue)"/>
+  <line x1="560" y1="615" x2="620" y2="675" stroke="#1e3a5f" stroke-width="2" marker-end="url(#arr-blue)"/>
+
+  <!-- Arrow: Local 333 → Schor -->
+  <line x1="280" y1="707" x2="245" y2="707" stroke="#1e3a5f" stroke-width="1.5" marker-end="url(#arr-blue)"/>
+  <text x="262" y="700" text-anchor="middle" font-size="9" fill="#1e3a5f">$112K</text>
+
+  <!-- ═══════ ROW 6: CITY COUNCIL ═══════ -->
+
+  <rect x="200" y="790" width="400" height="65" rx="6" fill="#166534" stroke="#14532d" stroke-width="2"/>
+  <text x="400" y="815" text-anchor="middle" font-size="16" font-weight="bold" fill="white">LANSING CITY COUNCIL</text>
+  <text x="400" y="835" text-anchor="middle" font-size="12" fill="#86efac">7 of 8 members funded by Chamber PAC or Local 333</text>
+  <text x="400" y="848" text-anchor="middle" font-size="10" fill="#86efac">Ryan Kost (Ward 1) is the only exception: $0 from either source</text>
+
+  <!-- Arrows: political actors → council -->
+  <line x1="380" y1="735" x2="370" y2="785" stroke="#1e3a5f" stroke-width="2" marker-end="url(#arr-blue)"/>
+  <text x="350" y="765" font-size="10" fill="#1e3a5f">$104K</text>
+  <line x1="620" y1="735" x2="500" y2="785" stroke="#1e3a5f" stroke-width="2" marker-end="url(#arr-blue)"/>
+  <text x="575" y="765" font-size="10" fill="#1e3a5f">$26K</text>
+
+  <!-- Council votes on -->
+  <text x="400" y="880" text-anchor="middle" font-size="12" fill="#166534">↓ Votes on zoning, development, contracts, and policy</text>
+
+  <!-- DTE Energy -->
+  <rect x="700" y="340" width="220" height="55" rx="6" fill="#b91c1c" stroke="#7f1d1d" stroke-width="2"/>
+  <text x="810" y="363" text-anchor="middle" font-size="13" font-weight="bold" fill="white">DTE ENERGY</text>
+  <text x="810" y="378" text-anchor="middle" font-size="10" fill="#fca5a5">MI's 2nd utility · PAC $ → Felsing clients</text>
+
+  <!-- Arrow: DTE → Felsing network -->
+  <line x1="700" y1="367" x2="590" y2="350" stroke="#b91c1c" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="648" y="347" font-size="9" fill="#7f1d1d">$31K treasurer fees</text>
+
+  <!-- ═══════ CAPTION ═══════ -->
+  <text x="480" y="1010" text-anchor="middle" font-size="11" fill="#666">Sources: IRS 990 (EIN 46-4355362, Schedule I), FEC (C00825901), LARA (802764120, 802559806),</text>
+  <text x="480" y="1025" text-anchor="middle" font-size="11" fill="#666">MiTN (507652, 000516), Ingham County EasyVote, SoundCloud (TicketSplitters Ep. 10 &amp; 13)</text>
+
+  <!-- Legend -->
+  <rect x="40" y="1045" width="880" height="45" rx="4" fill="#e5e7eb"/>
+  <rect x="55" y="1058" width="14" height="14" rx="2" fill="#b91c1c"/>
+  <text x="75" y="1070" font-size="10" fill="#333">Utility / dark money</text>
+  <rect x="185" y="1058" width="14" height="14" rx="2" fill="#c2410c"/>
+  <text x="205" y="1070" font-size="10" fill="#333">Felsing network</text>
+  <rect x="305" y="1058" width="14" height="14" rx="2" fill="#7c3aed"/>
+  <text x="325" y="1070" font-size="10" fill="#333">Judge Felsing</text>
+  <rect x="415" y="1058" width="14" height="14" rx="2" fill="#1e293b"/>
+  <text x="435" y="1070" font-size="10" fill="#333">Grassroots Midwest</text>
+  <rect x="565" y="1058" width="14" height="14" rx="2" fill="#1e3a5f"/>
+  <text x="585" y="1070" font-size="10" fill="#333">Political actors</text>
+  <rect x="675" y="1058" width="14" height="14" rx="2" fill="#166534"/>
+  <text x="695" y="1070" font-size="10" fill="#333">Council</text>
+</svg>
