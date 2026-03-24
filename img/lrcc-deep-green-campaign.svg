@@ -68,7 +68,7 @@
 
   <!-- Arrows: LRC-PAC to Council (red = money) -->
   <line x1="130" y1="245" x2="200" y2="460" stroke="#b91c1c" stroke-width="2" marker-end="url(#arr-red)"/>
-  <text x="110" y="360" font-size="10" font-weight="bold" fill="#b91c1c">$25,750</text>
+  <text x="110" y="360" font-size="10" font-weight="bold" fill="#b91c1c">$30,750</text>
   <text x="110" y="374" font-size="9" fill="#b91c1c">to 6 of 8 members</text>
 
   <!-- Arrows: Soft Edge to 12 Letters -->
