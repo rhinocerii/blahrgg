@@ -176,7 +176,7 @@
 <script data-goatcounter="https://goatblog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <script>
-function subscribeForm(f){var e=f.querySelector('[name=email]').value;window.open('https://buttondown.com/t.isfine?email='+encodeURIComponent(e),'_blank');return false;}
+function subscribeForm(f){var e=f.querySelector('[name=email]'),b=f.querySelector('[type=submit]'),m=f.querySelector('.subscribe-msg');if(m)m.remove();b.disabled=true;b.value='...';fetch('https://buttondown.com/api/emails/embed-subscribe/t.isfine',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:'email='+encodeURIComponent(e.value)}).then(function(){var s=document.createElement('span');s.className='subscribe-msg';s.textContent='Check your email to confirm.';f.appendChild(s);e.value='';}).catch(function(){var s=document.createElement('span');s.className='subscribe-msg';s.textContent='Error. Try again.';s.style.color='#dc2626';f.appendChild(s);}).finally(function(){b.disabled=false;b.value='Subscribe';});return false;}
 </script>
 </body>
 </html>
