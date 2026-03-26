@@ -185,6 +185,20 @@ article .update .update-date {
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
+.post-list .badge-place-mi {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: bold;
+  color: #2d6a4f;
+  background: #edf6f0;
+  border: 1px solid #b7dbca;
+  border-radius: 3px;
+  padding: 0.1rem 0.35rem;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
 
 @media (max-width: 600px) {
   body { padding: 1rem; }
