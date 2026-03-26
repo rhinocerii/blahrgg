@@ -161,8 +161,9 @@
 <footer>Public records analysis. No ads. No cookies. Basic analytics by <a href="https://www.goatcounter.com">GoatCounter</a>.</footer>
 <script data-goatcounter="https://goatblog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+<dialog class="subscribe-dialog" id="sub-dialog"><button onclick="this.parentElement.close()">&times;</button><iframe name="sub-frame"></iframe></dialog>
 <script>
-function subscribeForm(f){var e=f.querySelector('[name=email]'),b=f.querySelector('[type=submit]'),m=f.querySelector('.subscribe-msg');if(m)m.remove();b.disabled=true;b.value='...';fetch('https://buttondown.com/api/emails/embed-subscribe/t.isfine',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:'email='+encodeURIComponent(e.value)}).then(function(r){var s=document.createElement('span');s.className='subscribe-msg';if(r.ok){s.textContent='Subscribed!';e.value='';}else{s.textContent='Error. Try again.';s.style.color='#dc2626';}f.appendChild(s);}).catch(function(){var s=document.createElement('span');s.className='subscribe-msg';s.textContent='Error. Try again.';s.style.color='#dc2626';f.appendChild(s);}).finally(function(){b.disabled=false;b.value='Subscribe';});return false;}
+function subscribeForm(f){var d=document.getElementById('sub-dialog');var iframe=d.querySelector('iframe');iframe.src='about:blank';f.target='sub-frame';f.action='https://buttondown.com/api/emails/embed-subscribe/t.isfine';f.method='post';d.showModal();return true;}
 </script>
 </body>
 </html>
