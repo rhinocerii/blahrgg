@@ -391,9 +391,8 @@
 
 </article>
 </main>
-<dialog class="subscribe-dialog" id="sub-dialog"><button onclick="this.parentElement.close()">&times;</button><iframe name="sub-frame"></iframe></dialog>
 <script>
-function subscribeForm(f){var d=document.getElementById('sub-dialog');var iframe=d.querySelector('iframe');iframe.src='about:blank';f.target='sub-frame';f.action='https://buttondown.com/api/emails/embed-subscribe/t.isfine';f.method='post';d.showModal();return true;}
+function subscribeForm(f){var e=f.querySelector('[name=email]').value;window.open('https://buttondown.com/t.isfine?email='+encodeURIComponent(e),'_blank');return false;}
 </script>
 </body>
 </html>
