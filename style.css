@@ -82,6 +82,46 @@ article hr { border: none; border-top: 1px solid #ddd; margin: 2rem 0; }
 article .methodology { font-size: 0.92rem; color: #444; }
 article .methodology h3 { font-size: 1rem; }
 
+.verdict-false {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #fff;
+  background: #dc2626;
+  border-radius: 3px;
+  padding: 0.15rem 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+}
+.verdict-misleading {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #fff;
+  background: #d97706;
+  border-radius: 3px;
+  padding: 0.15rem 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+}
+.verdict-unverified {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #fff;
+  background: #6b7280;
+  border-radius: 3px;
+  padding: 0.15rem 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+  margin-right: 0.3rem;
+}
+
 .tagline { color: #555; margin-bottom: 2rem; font-size: 1.05rem; }
 
 .featured {
