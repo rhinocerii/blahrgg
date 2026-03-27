@@ -23,7 +23,7 @@
 <a href="/blahrgg/about.html">About</a>
 <a href="/blahrgg/feed.xml">RSS</a>
 </nav>
-<form class="subscribe" onsubmit="return subscribeForm(this)">
+<form class="subscribe" action="https://buttondown.com/api/emails/embed-subscribe/rhinoceros" method="post">
 <input type="email" name="email" placeholder="email" required>
 <input type="submit" value="Subscribe">
 </form>
@@ -160,8 +160,5 @@
 <footer>Public records analysis. No ads. No cookies. Basic analytics by <a href="https://www.goatcounter.com">GoatCounter</a>.</footer>
 <script data-goatcounter="https://goatblog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-<script>
-function subscribeForm(f){var e=f.querySelector('[name=email]'),b=f.querySelector('[type=submit]'),m=f.querySelector('.subscribe-msg');if(m)m.remove();b.disabled=true;b.innerHTML='<span class="spinner"></span>';fetch('https://buttondown.com/api/emails/embed-subscribe/t.isfine',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:'email='+encodeURIComponent(e.value)}).then(function(){var s=document.createElement('span');s.className='subscribe-msg';s.textContent='Check your email to confirm.';f.appendChild(s);e.value='';}).catch(function(){var s=document.createElement('span');s.className='subscribe-msg';s.textContent='Error. Try again.';s.style.color='#dc2626';f.appendChild(s);}).finally(function(){b.disabled=false;b.innerHTML='Subscribe';});return false;}
-</script>
 </body>
 </html>
