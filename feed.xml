@@ -5,8 +5,15 @@
   <link>https://rhinocerii.github.io/blahrgg/</link>
   <description>Public records investigations into local government, campaign finance, and corporate influence in Michigan.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 01 Apr 2026 18:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 21:00:00 GMT</lastBuildDate>
   <atom:link href="https://rhinocerii.github.io/blahrgg/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Fact-Checking the Mayor's Deep Green Letter</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/schor-letter-fact-check.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/schor-letter-fact-check.html</guid>
+    <pubDate>Wed, 01 Apr 2026 21:00:00 GMT</pubDate>
+    <description>Mayor Schor published a letter asking residents to support the Deep Green data center based on facts. The letter repeats a false claim about toxic chemicals that the EPA contradicts, cites an organization he belongs to as independent validation, and warns that basic city services depend on approving the project.</description>
+  </item>
   <item>
     <title>Deep Green: How Would You Vote?</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/how-would-you-vote.html</link>
