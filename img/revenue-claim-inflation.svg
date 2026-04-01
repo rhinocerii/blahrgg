@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="system-ui, -apple-system, sans-serif">
+  <style>
+    .date { font-size: 11px; fill: #666; font-weight: 600; }
+    .speaker { font-size: 12px; fill: #1a1a1a; font-weight: 700; }
+    .claim { font-size: 11px; fill: #333; }
+    .real { fill: #2d6a2e; font-weight: 600; }
+    .fabricated { fill: #b71c1c; font-weight: 600; }
+    .label { font-size: 10px; font-weight: 700; }
+    .note { font-size: 10px; fill: #888; font-style: italic; }
+    .header { font-size: 15px; fill: #1a1a1a; font-weight: 700; }
+    .subheader { font-size: 11px; fill: #666; }
+    .connector { stroke: #ccc; stroke-width: 1.5; stroke-dasharray: 4,3; }
+    .arrow { fill: #999; }
+  </style>
+
+  <!-- Header -->
+  <text x="400" y="28" text-anchor="middle" class="header">How the Revenue Claims Changed</text>
+  <text x="400" y="44" text-anchor="middle" class="subheader">Each step added services that do not appear in any proposal.</text>
+
+  <!-- Legend -->
+  <rect x="240" y="56" width="10" height="10" rx="2" fill="#2d6a2e"/>
+  <text x="255" y="65" class="label" fill="#2d6a2e">In a proposal</text>
+  <rect x="370" y="56" width="10" height="10" rx="2" fill="#b71c1c"/>
+  <text x="385" y="65" class="label" fill="#b71c1c">Not in any proposal</text>
+  <rect x="530" y="56" width="10" height="10" rx="2" fill="#888"/>
+  <text x="545" y="65" class="label" fill="#888">Omitted</text>
+
+  <!-- Step 1 -->
+  <rect x="30" y="82" width="740" height="80" rx="6" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="50" y="102" class="date">Jan 15 &amp; Feb 4</text>
+  <text x="180" y="102" class="speaker">Deep Green (Gavin, Craggs)</text>
+  <text x="50" y="122" class="claim">"$900K in property tax revenue <tspan class="real">to the city</tspan>"</text>
+  <text x="50" y="138" class="claim">"$1M in city profit from power sales, both strengthening the city's budget</text>
+  <text x="50" y="152" class="claim"> for <tspan class="real">essential services</tspan>"</text>
+  <text x="550" y="122" class="note">No TIFA capture disclosed.</text>
+  <text x="550" y="138" class="note">Property tax does not reach</text>
+  <text x="550" y="152" class="note">essential services.</text>
+
+  <!-- Arrow 1 -->
+  <line x1="400" y1="162" x2="400" y2="182" class="connector"/>
+  <polygon points="395,180 405,180 400,188" class="arrow"/>
+
+  <!-- Step 2 -->
+  <rect x="30" y="190" width="740" height="96" rx="6" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="50" y="210" class="date">March 23</text>
+  <text x="180" y="210" class="speaker">Mayor Schor (supplemental budget)</text>
+  <text x="50" y="232" class="claim">$400K <tspan class="real">fire dept hazmat/rescue</tspan></text>
+  <text x="300" y="232" class="claim">$400K <tspan class="real">housing rehabilitation</tspan></text>
+  <text x="50" y="250" class="claim">$100K <tspan class="real">facade grants</tspan></text>
+  <text x="300" y="250" class="claim">$100K <tspan class="real">neighborhood grants</tspan></text>
+  <text x="50" y="274" class="claim" style="fill:#888">Police: $0 | Streets: $0 | Sidewalks: $0</text>
+  <text x="550" y="232" class="note">"I apologize. I forgot</text>
+  <text x="550" y="248" class="note">something."</text>
+  <text x="550" y="274" class="note">Same night as public hearing.</text>
+
+  <!-- Arrow 2 -->
+  <line x1="400" y1="286" x2="400" y2="306" class="connector"/>
+  <polygon points="395,304 405,304 400,312" class="arrow"/>
+
+  <!-- Step 3 -->
+  <rect x="30" y="314" width="740" height="80" rx="6" fill="#f8f9fa" stroke="#ddd" stroke-width="1"/>
+  <text x="50" y="334" class="date">March 30</text>
+  <text x="180" y="334" class="speaker">Brower (FY27 budget presentation)</text>
+  <text x="50" y="354" class="claim">Same $1M allocation formalized with dedicated slide.</text>
+  <text x="50" y="372" class="claim">Also floated as funding for <tspan class="real">$800K/yr homeless shelter ops</tspan> (Project Nova).</text>
+  <text x="550" y="354" class="note">Revenue "18 months" away.</text>
+  <text x="550" y="370" class="note">Kost: actually 5-8 years.</text>
+  <text x="550" y="386" class="note">Hazmat contradicts Schor.</text>
+
+  <!-- Arrow 3 -->
+  <line x1="400" y1="394" x2="400" y2="414" class="connector"/>
+  <polygon points="395,412 405,412 400,420" class="arrow"/>
+
+  <!-- Step 4 -->
+  <rect x="30" y="422" width="740" height="80" rx="6" fill="#fff5f5" stroke="#b71c1c" stroke-width="1.5"/>
+  <text x="50" y="442" class="date">April 1</text>
+  <text x="180" y="442" class="speaker">Robotext (The Soft Edge / unknown funder)</text>
+  <text x="50" y="462" class="claim">"$1M+ a year for city services like</text>
+  <text x="50" y="478" class="claim"><tspan class="fabricated">police</tspan>, <tspan class="real">fire</tspan>, <tspan class="fabricated">streets</tspan>, and <tspan class="fabricated">sidewalks</tspan>"</text>
+  <text x="430" y="462" class="note">Police: $0. Streets: $0. Sidewalks: $0.</text>
+  <text x="430" y="478" class="note">Housing, facades, neighborhoods: omitted.</text>
+  <text x="430" y="494" class="note">No sender identified. No disclosure.</text>
+
+  <!-- Source line -->
+  <text x="400" y="516" text-anchor="middle" class="note">Sources: Jan 15 virtual session, Feb 4 ENO meeting, March 23 CivicClerk Event 7881, March 30 COW budget meeting, April 1 resident screenshot.</text>
+</svg>
