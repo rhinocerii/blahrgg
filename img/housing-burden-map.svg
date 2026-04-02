@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="system-ui, -apple-system, sans-serif">
+  <style>
+    .header { font-size: 15px; fill: #1a1a1a; font-weight: 700; }
+    .subheader { font-size: 11px; fill: #666; }
+    .tract-label { font-size: 11px; font-weight: 600; fill: #333; }
+    .tract-data { font-size: 10px; fill: #555; }
+    .legend-label { font-size: 10px; fill: #555; }
+    .note { font-size: 9px; fill: #999; }
+    .bar-bg { fill: #eee; rx: 3; }
+  </style>
+
+  <text x="400" y="28" text-anchor="middle" class="header">Where the Housing Burden Falls Hardest</text>
+  <text x="400" y="44" text-anchor="middle" class="subheader">Renter cost burden by census tract, overlaid with racial demographics. City of Lansing, 2022.</text>
+
+  <!-- Legend -->
+  <rect x="150" y="60" width="12" height="12" rx="2" fill="#b71c1c"/>
+  <text x="167" y="71" class="legend-label">Cost-burdened renters (% paying &gt;30% income)</text>
+  <rect x="440" y="60" width="12" height="12" rx="2" fill="#4a148c"/>
+  <text x="457" y="71" class="legend-label">Non-white population %</text>
+
+  <!-- Column headers for data -->
+  <text x="590" y="93" class="legend-label" style="font-weight:600">Burdened</text>
+  <text x="700" y="93" class="legend-label" style="font-weight:600">Non-white</text>
+
+  <!-- Tract 36.01 - South Lansing -->
+  <text x="40" y="118" class="tract-label">South Lansing (Tract 36.01)</text>
+  <rect x="250" y="105" width="280" height="12" class="bar-bg"/>
+  <rect x="250" y="105" width="201" height="12" rx="3" fill="#b71c1c"/>
+  <rect x="250" y="120" width="280" height="8" class="bar-bg"/>
+  <rect x="250" y="120" width="197" height="8" rx="3" fill="#4a148c"/>
+  <text x="590" y="120" class="tract-data">71.7%</text>
+  <text x="700" y="120" class="tract-data">70.5%</text>
+
+  <!-- Tract 33.01 - South Lansing -->
+  <text x="40" y="160" class="tract-label">North Lansing (Tract 33.01)</text>
+  <rect x="250" y="147" width="280" height="12" class="bar-bg"/>
+  <rect x="250" y="147" width="187" height="12" rx="3" fill="#b71c1c"/>
+  <rect x="250" y="162" width="280" height="8" class="bar-bg"/>
+  <rect x="250" y="162" width="141" height="8" rx="3" fill="#4a148c"/>
+  <text x="590" y="162" class="tract-data">66.7%</text>
+  <text x="700" y="162" class="tract-data">50.4%</text>
+
+  <!-- Tract 12 - Downtown/Central Lansing -->
+  <text x="40" y="202" class="tract-label">Eastside Lansing (Tract 12)</text>
+  <rect x="250" y="189" width="280" height="12" class="bar-bg"/>
+  <rect x="250" y="189" width="168" height="12" rx="3" fill="#e65100"/>
+  <rect x="250" y="204" width="280" height="8" class="bar-bg"/>
+  <rect x="250" y="204" width="158" height="8" rx="3" fill="#4a148c"/>
+  <text x="590" y="202" class="tract-data">60.1%</text>
+  <text x="700" y="202" class="tract-data">56.6%</text>
+
+  <!-- Tract 7 - Westside Lansing -->
+  <text x="40" y="244" class="tract-label">Westside Lansing (Tract 7)</text>
+  <rect x="250" y="231" width="280" height="12" class="bar-bg"/>
+  <rect x="250" y="231" width="163" height="12" rx="3" fill="#e65100"/>
+  <rect x="250" y="246" width="280" height="8" class="bar-bg"/>
+  <rect x="250" y="246" width="186" height="8" rx="3" fill="#4a148c"/>
+  <text x="590" y="244" class="tract-data">58.3%</text>
+  <text x="700" y="244" class="tract-data">66.5%</text>
+  <text x="590" y="257" class="tract-data" style="font-size:9px;fill:#888">82.2% renter | 45% Black</text>
+
+  <!-- Tract 21.01 - Lansing -->
+  <text x="40" y="290" class="tract-label">Eastside Lansing (Tract 21.01)</text>
+  <rect x="250" y="277" width="280" height="12" class="bar-bg"/>
+  <rect x="250" y="277" width="160" height="12" rx="3" fill="#e65100"/>
+  <rect x="250" y="292" width="280" height="8" class="bar-bg"/>
+  <rect x="250" y="292" width="207" height="8" rx="3" fill="#4a148c"/>
+  <text x="590" y="290" class="tract-data">57.0%</text>
+  <text x="700" y="290" class="tract-data">74.1%</text>
+
+  <!-- Annotation -->
+  <text x="40" y="335" class="tract-data">In South Lansing, the Westside, the Eastside, and North Lansing, high cost burden and high non-white population overlap.</text>
+  <text x="40" y="350" class="tract-data" style="fill:#888">"Cost-burdened" uses the federal 30% threshold, which understates the problem (see residual income analysis above).</text>
+
+  <text x="400" y="400" text-anchor="middle" class="note">Sources: Census ACS 5-Year Estimates (2022), Tables B25070 (cost burden), B25003 (tenure), B03002 (race/ethnicity). City of Lansing tracts.</text>
+  <text x="400" y="413" text-anchor="middle" class="note">Tracts shown are the five highest-burden non-student tracts within Lansing city limits.</text>
+</svg>

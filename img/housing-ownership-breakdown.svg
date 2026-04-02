@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 400" font-family="system-ui, -apple-system, sans-serif">
+  <style>
+    .header { font-size: 15px; fill: #1a1a1a; font-weight: 700; }
+    .subheader { font-size: 11px; fill: #666; }
+    .seg-pct { font-size: 20px; font-weight: 800; fill: #fff; }
+    .seg-label-sm { font-size: 10px; fill: #fff; }
+    .box-title { font-size: 12px; fill: #333; font-weight: 700; }
+    .box-detail { font-size: 10px; fill: #555; }
+    .note { font-size: 9px; fill: #999; }
+  </style>
+
+  <text x="375" y="28" text-anchor="middle" class="header">Who Owns Lansing's Residential Parcels</text>
+  <text x="375" y="44" text-anchor="middle" class="subheader">38,721 single-family residential parcels analyzed from 2025 FOIA export</text>
+
+  <!-- Stacked bar -->
+  <rect x="40" y="65" width="480" height="55" rx="4" fill="#2d6a2e"/>
+  <rect x="520" y="65" width="68" height="55" rx="0" fill="#c62828"/>
+  <rect x="588" y="65" width="57" height="55" rx="0" fill="#d84315"/>
+  <rect x="645" y="65" width="65" height="55" rx="4" fill="#4a148c"/>
+
+  <!-- Labels on bar -->
+  <text x="280" y="95" text-anchor="middle" class="seg-pct">70.4%</text>
+  <text x="280" y="110" text-anchor="middle" class="seg-label-sm">Owner-occupied</text>
+
+  <text x="554" y="98" text-anchor="middle" style="font-size:13px; font-weight:800; fill:#fff">10.1%</text>
+  <text x="616" y="98" text-anchor="middle" style="font-size:13px; font-weight:800; fill:#fff">8.3%</text>
+  <text x="677" y="98" text-anchor="middle" style="font-size:13px; font-weight:800; fill:#fff">3.3%</text>
+
+  <!-- Detail rows below -->
+  <rect x="40" y="140" width="165" height="75" rx="4" fill="#e8f5e9" stroke="#2d6a2e" stroke-width="1"/>
+  <text x="122" y="162" text-anchor="middle" class="box-title" style="color:#2d6a2e">Owner-Occupied</text>
+  <text x="122" y="178" text-anchor="middle" class="box-detail">~27,260 parcels</text>
+  <text x="122" y="194" text-anchor="middle" class="box-detail">Resident lives in the home</text>
+
+  <rect x="220" y="140" width="165" height="75" rx="4" fill="#ffebee" stroke="#c62828" stroke-width="1"/>
+  <text x="302" y="162" text-anchor="middle" class="box-title" style="color:#c62828">Local Investor</text>
+  <text x="302" y="178" text-anchor="middle" class="box-detail">~3,910 parcels</text>
+  <text x="302" y="194" text-anchor="middle" class="box-detail">MI-based, non-owner-occupied</text>
+
+  <rect x="400" y="140" width="165" height="75" rx="4" fill="#fbe9e7" stroke="#d84315" stroke-width="1"/>
+  <text x="482" y="162" text-anchor="middle" class="box-title" style="color:#d84315">Mega-Landlords</text>
+  <text x="482" y="178" text-anchor="middle" class="box-detail">946 parcels, 24 entities</text>
+  <text x="482" y="194" text-anchor="middle" class="box-detail">8.3% of residential stock</text>
+
+  <rect x="580" y="140" width="130" height="75" rx="4" fill="#ede7f6" stroke="#4a148c" stroke-width="1"/>
+  <text x="645" y="162" text-anchor="middle" class="box-title" style="color:#4a148c">Out-of-State</text>
+  <text x="645" y="178" text-anchor="middle" class="box-detail">~1,379 parcels</text>
+  <text x="645" y="194" text-anchor="middle" class="box-detail">Owner address outside MI</text>
+
+  <!-- Largest operators -->
+  <text x="40" y="248" class="box-title">Largest operators:</text>
+  <text x="40" y="266" class="box-detail">DTN Management: 44 LLCs, 132 parcels</text>
+  <text x="40" y="282" class="box-detail">Woodside Meadows: Delaware LLC, NYC principal</text>
+  <text x="40" y="298" class="box-detail">Christian Nwobu: 40+ properties, LARA-delinquent LLC</text>
+
+  <text x="420" y="266" class="box-detail">29.6% of residential parcels are non-owner-occupied</text>
+  <text x="420" y="282" class="box-detail">Undercounts multi-family: one parcel can hold dozens of units</text>
+
+  <text x="375" y="345" text-anchor="middle" class="note">Sources: City of Lansing 2025 FOIA export (NAMES.TXT, PARCEL MASTER LIST); owner address vs. property address mismatch analysis.</text>
+  <text x="375" y="358" text-anchor="middle" class="note">Non-owner-occupied defined as owner mailing address different from property address. Verified from 38,721 class-401 parcels.</text>
+</svg>

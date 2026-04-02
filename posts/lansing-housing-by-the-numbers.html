@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lansing's Housing Crisis by the Numbers</title>
+<meta name="description" content="More than half of Lansing renters are cost-burdened. Rents are rising faster than anywhere in Michigan. Black mortgage denial rates are nearly double white rates. Here are the numbers.">
+<meta property="og:title" content="Lansing's Housing Crisis by the Numbers">
+<meta property="og:description" content="More than half of Lansing renters are cost-burdened. Rents are rising faster than anywhere in Michigan. Black mortgage denial rates are nearly double white rates. Here are the numbers.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-numbers.html">
+<meta property="og:image" content="https://rhinocerii.github.io/blahrgg/img/og-default.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://rhinocerii.github.io/blahrgg/img/og-default.png">
+<link rel="stylesheet" href="../style.css">
+<link rel="alternate" type="application/rss+xml" title="Rhinoceros RSS Feed" href="https://rhinocerii.github.io/blahrgg/feed.xml">
+<style>
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1em; margin: 1.5em 0; }
+.stat-card { background: #f8f9fa; border-left: 4px solid #1a1a1a; padding: 1em 1.2em; }
+.stat-card .number { font-size: 2em; font-weight: 800; color: #1a1a1a; line-height: 1.1; }
+.stat-card .label { font-size: 0.85em; color: #555; margin-top: 0.3em; }
+.stat-card .source { font-size: 0.75em; color: #888; margin-top: 0.5em; }
+.stat-card.red { border-left-color: #b71c1c; }
+.stat-card.red .number { color: #b71c1c; }
+.stat-card.orange { border-left-color: #e65100; }
+.stat-card.orange .number { color: #e65100; }
+.crisis-table { width: 100%; border-collapse: collapse; margin: 1.5em 0; font-size: 0.95em; }
+.crisis-table th { background: #1a1a1a; color: #fff; padding: 8px 12px; text-align: left; font-size: 0.85em; }
+.crisis-table td { padding: 8px 12px; border-bottom: 1px solid #e0e0e0; vertical-align: top; }
+.crisis-table tr:hover { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<header>
+<h1><a href="/blahrgg/">Rhinoceros</a></h1>
+<nav>
+<a href="/blahrgg/">Home</a>
+<a href="/blahrgg/about.html">About</a>
+<a href="/blahrgg/feed.xml">RSS</a>
+</nav>
+<form class="subscribe" action="https://buttondown.com/api/emails/embed-subscribe/rhinoceros" method="post">
+<input type="email" name="email" placeholder="email" required>
+<input type="submit" value="Subscribe">
+</form>
+</header>
+<main>
+<article>
+<h1>Lansing's Housing Crisis by the Numbers</h1>
+<div class="date">April 1, 2026</div>
+
+<p><span class="dateline">LANSING, Mich.</span> &mdash; A typical Lansing renter who works full time does not earn enough to cover rent, a car, groceries, and a doctor visit in the same month. Rents are rising faster in Lansing than anywhere else in Michigan, and the fastest increases are hitting the neighborhoods where people have the least room to absorb them. Everything in this post comes from public data. The numbers speak for themselves.</p>
+
+<h2>How affordability is measured, and why the standard method is wrong</h2>
+
+<p>Housing affordability is typically measured by whether a household spends more than 30% of income on rent. A better question is simpler: after paying for the basics, is there anything left? The table below answers that question for a Lansing renter earning <a href="https://data.census.gov/table/ACSDT5Y2022.B25119?g=160XX00US2646000">$36,572 a year</a>, which is the median, meaning half of Lansing's 23,394 renter households earn less. Everything in this table uses <a href="https://data.census.gov/table/ACSDT5Y2022.B25064?g=160XX00US2646000">Lansing's actual rent</a>, <a href="https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3">HUD's transportation estimate</a> for Lansing census tracts, and <a href="https://www.salary.com/research/cost-of-living/lansing-mi">local cost-of-living data</a>:</p>
+
+<table class="crisis-table">
+<thead><tr><th>Expense</th><th>Annual</th><th>% of gross income</th></tr></thead>
+<tbody>
+<tr><td>Gross income</td><td>$36,572</td><td>100%</td></tr>
+<tr><td>Taxes (federal, state, city, FICA)</td><td>-$4,718</td><td>12.9%</td></tr>
+<tr><td>Housing ($954/mo median rent)</td><td>-$11,448</td><td>31.3%</td></tr>
+<tr><td>Transportation (HUD LAI, Lansing renters)</td><td>-$12,911</td><td>35.3%</td></tr>
+<tr><td>Food</td><td>-$10,056</td><td>27.5%</td></tr>
+<tr><td>Healthcare</td><td>-$7,152</td><td>19.6%</td></tr>
+<tr><td>Utilities</td><td>-$3,216</td><td>8.8%</td></tr>
+<tr style="font-weight:700; color:#b71c1c;"><td>Residual</td><td>-$12,929</td><td></td></tr>
+</tbody>
+</table>
+<p style="font-size:0.8em; color:#888;">Sources: <a href="https://data.census.gov/table/ACSDT5Y2022.B25119?g=160XX00US2646000">Census ACS B25119</a> (income), <a href="https://data.census.gov/table/ACSDT5Y2022.B25064?g=160XX00US2646000">Census ACS B25064</a> (rent), <a href="https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3">HUD LAI</a> (transport), <a href="https://www.salary.com/research/cost-of-living/lansing-mi">Salary.com</a> (food, healthcare, utilities). Taxes estimated at 12.9% effective (MI 4.25% + Lansing 1% + FICA 7.65%).</p>
+
+<div class="stat-grid">
+<div class="stat-card red">
+<div class="number">-$1,077/mo</div>
+<div class="label">What a Lansing renter at the middle income is short every month after rent, a car, groceries, a doctor, and the lights. Before childcare. Before internet. Before everything else. Half of Lansing's renters earn less than this.</div>
+<div class="source">Derived from Census, HUD, and Salary.com data above</div>
+</div>
+</div>
+
+<p>The federal government says a household is "cost-burdened" if it spends more than 30% of income on housing. By that measure, the renter in the table above is barely over the line. By the measure that counts, they are $12,929 short of covering basic needs every year. The 30% standard misses this because it only looks at housing. It ignores the car, the groceries, the doctor, and the electric bill. Economists call the alternative the <a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1002&context=cpcs_pubs">"residual income" approach</a>: instead of asking what percentage goes to rent, ask what is left after rent, and for most Lansing renters the answer is not enough.</p>
+
+<h3>Where the 30% standard came from</h3>
+
+<p>In 1969, Senator Edward Brooke amended the <a href="https://www.congress.gov/bill/91st-congress/senate-bill/1678">Housing Act of 1937</a> to cap public housing rent at 25% of tenant income. In 1981, the Reagan administration <a href="https://www.congress.gov/bill/97th-congress/senate-bill/1197">raised the cap to 30%</a> as part of the Housing and Community Development Amendments, partly to reduce the federal subsidy required per unit. HUD later adopted 30% as the statistical threshold for "cost-burdened" in its Worst Case Housing Needs reports, and it became the national standard through repetition rather than through any rigorous analysis. A <a href="https://www.census.gov/library/working-papers/2008/acs/2008_Schwartz_01.html">Census Bureau working paper</a> confirmed the standard was never intended as a universal affordability measure. Urban Institute researchers <a href="https://www.urban.org/">George Galster and Kathryn Nelson</a> found the 30% figure was essentially arbitrary. And the Harvard Joint Center for Housing Studies <a href="https://www.jchs.harvard.edu/research-areas/working-papers/measuring-housing-affordability-assessing-30-percent-income-standard">concluded in 2018</a> that the standard has "significant limitations as a measure of affordability."</p>
+
+<h3>Why researchers say it understates the problem</h3>
+
+<p>The 30% ratio treats all incomes the same, but a household earning $100,000 and paying 35% on housing has $65,000 left while a household earning $36,572 and paying 34% has roughly $24,100. The percentage is similar; what is left over is not. Economist <a href="https://scholarworks.umb.edu/cgi/viewcontent.cgi?article=1002&context=cpcs_pubs">Michael Stone</a> at UMass Boston found the 30% standard consistently <em>understates</em> the burden on low-income households and <em>overstates</em> it on high-income ones. <a href="https://scholar.google.com/scholar?q=thalmann+housing+affordability+residual+income+approach">Formal economic modeling</a> confirmed the residual approach better predicts eviction risk and housing instability than the ratio method. And in <a href="https://www.penguinrandomhouse.com/books/247816/evicted-by-matthew-desmond/"><em>Evicted</em></a>, Pulitzer Prize-winning sociologist Matthew Desmond documented families routinely spending 60-80% of income on housing, a reality the 30% threshold cannot describe. The <a href="https://livingwage.mit.edu/metros/29620">MIT Living Wage Calculator</a> estimates a family of four in the Lansing metro needs $103,777 per year to cover basic expenses, while a dual-income household at the Lansing renter wage brings in $73,133, leaving a $30,644 annual shortfall that the 30% standard does not capture.</p>
+
+<h3>Transportation makes it worse</h3>
+
+<p>The <a href="https://htaindex.cnt.org/">Center for Neighborhood Technology</a> publishes a Housing + Transportation Index using a combined 45% threshold, and HUD adopted the same approach in its <a href="https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3">Location Affordability Index</a>. Across the 34 census tracts within Lansing city limits, the median family spends an estimated 24.0% of income on housing and 25.0% on transportation, for a combined <strong>49.0%</strong> on those two expenses alone. For a very low income renter earning $11,880 per year, housing and transportation consume an estimated <strong>103.9% of income</strong>. The annual transportation cost for a Lansing renter household is approximately $12,911, driven by car dependence in south and west Lansing where there is no meaningful public transit to employment centers. The 30% housing-only standard hides this cost entirely.</p>
+
+<p>The rest of this post includes the conventional 30% figures for reference because they are what HUD reports and what other cities use. They appear alongside, not instead of, the numbers that actually describe what Lansing renters experience.</p>
+
+<h2>The affordability gap</h2>
+
+<figure>
+<img src="../img/housing-affordability-gap.svg" alt="Bar chart comparing three wage levels against two thresholds: the red line shows $23.80/hr needed to actually cover basics (housing, transport, food, healthcare, utilities), and a gray line shows the federal 30% standard at $24.38/hr. Minimum wage ($12.48) and the typical Lansing renter ($17.58) both fall far short of either line. The metro-area middle wage ($24.34) passes the federal standard but still falls short of real costs." style="width:100%; max-width:850px;">
+<figcaption>Two standards, one reality. The red line is what a worker needs to cover the basics. The gray line is the federal standard that only counts housing. Sources: <a href="https://www.huduser.gov/portal/datasets/fmr.html">HUD FMR FY2026</a>, <a href="https://data.census.gov/table/ACSDT5Y2022.B25119?g=160XX00US2646000">Census ACS B25119 (City of Lansing)</a>, <a href="https://www.bls.gov/oes/current/oes_29620.htm">BLS OES May 2024</a>, <a href="https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3">HUD LAI</a>, <a href="https://www.salary.com/research/cost-of-living/lansing-mi">Salary.com</a>.</figcaption>
+</figure>
+
+<div class="stat-grid">
+<div class="stat-card red">
+<div class="number">$3,048/mo</div>
+<div class="label">What a Lansing renter at the middle income brings home each month (before taxes take another $393)</div>
+<div class="source"><a href="https://data.census.gov/table/ACSDT5Y2022.B25119?g=160XX00US2646000">Census ACS B25119</a>, City of Lansing: $36,572/year. Half of renters earn less.</div>
+</div>
+<div class="stat-card red">
+<div class="number">$4,125/mo</div>
+<div class="label">What rent, a car, food, a doctor, and utilities actually cost in Lansing each month</div>
+<div class="source">Derived from <a href="https://data.census.gov/table/ACSDT5Y2022.B25064?g=160XX00US2646000">Census</a> (rent), <a href="https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3">HUD LAI</a> (transport), <a href="https://www.salary.com/research/cost-of-living/lansing-mi">Salary.com</a> (food, healthcare, utilities)</div>
+</div>
+<div class="stat-card orange">
+<div class="number">-$1,077/mo</div>
+<div class="label">The gap. Every month, the typical Lansing renter household is this far short of covering the basics.</div>
+<div class="source">Residual income calculation (see table above). Before childcare, internet, or anything else.</div>
+</div>
+<div class="stat-card">
+<div class="number">49.0%</div>
+<div class="label">Share of a Lansing family's income consumed by housing and transportation alone (45% is considered affordable)</div>
+<div class="source"><a href="https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3">HUD Location Affordability Index</a>, 34 Lansing city tracts</div>
+</div>
+</div>
+
+<p>More than half of the 213,610 workers in the <a href="https://www.bls.gov/oes/current/oes_29620.htm">Lansing-East Lansing metro area</a> earn less than $24.34 per hour, which is four cents below the $24.38 affordability threshold.</p>
+
+<h2>The acceleration</h2>
+
+<figure>
+<img src="../img/housing-rent-acceleration.svg" alt="Horizontal bar chart showing 4-year rent increases across Michigan metros. Lansing leads at 25.3%, followed by Grand Rapids (21.1%), Flint (20.2%), Ann Arbor (19.2%), Kalamazoo (18.2%), and Detroit (16.9%). Lansing has the lowest actual rent ($1,304) but the fastest increase." style="width:100%; max-width:850px;">
+<figcaption>Lansing has the lowest rents and the fastest increase. Source: <a href="https://www.zillow.com/research/data/">Zillow Observed Rent Index</a>, January 2022 to January 2026.</figcaption>
+</figure>
+
+<p>Lansing's rents grew below the state average for years, but that changed around 2022 when Lansing became the <a href="https://www.detroitnews.com/story/business/real-estate/2026/02/22/michigan-rent-increases-lansing-sees-sharpest-change/88494809007/">fastest-rising rental market in Michigan</a>.</p>
+
+<table class="crisis-table">
+<thead><tr><th>Metro</th><th>Jan 2022</th><th>Jan 2026</th><th>4-Year Change</th></tr></thead>
+<tbody>
+<tr><td><strong>Lansing</strong></td><td>$1,041</td><td>$1,304</td><td><strong>+25.3%</strong></td></tr>
+<tr><td>Grand Rapids</td><td>$1,359</td><td>$1,646</td><td>+21.1%</td></tr>
+<tr><td>Ann Arbor</td><td>$1,720</td><td>$2,050</td><td>+19.2%</td></tr>
+<tr><td>Kalamazoo</td><td>$1,145</td><td>$1,354</td><td>+18.2%</td></tr>
+<tr><td>Detroit</td><td>$1,245</td><td>$1,455</td><td>+16.9%</td></tr>
+</tbody>
+</table>
+<p style="font-size:0.8em; color:#888;">Source: <a href="https://www.zillow.com/research/data/">Zillow Observed Rent Index</a>, metro-level, January values.</p>
+
+<p>The increases are not evenly distributed across the city. Three Lansing ZIP codes saw <a href="https://www.zillow.com/research/data/">double-digit annual rent increases</a> in 2026: 48911 in South Lansing (+11.4%), 48912 on the Eastside (+11.4%), and 48906 in North Lansing (+10.3%). South Lansing has the lowest rents in the metro at $1,067 per month, which means the fastest increases are landing in the neighborhoods where residents have the least room to absorb them.</p>
+
+<p>HUD's Fair Market Rent for Ingham County jumped <a href="https://www.huduser.gov/portal/datasets/fmr.html">12.5% in a single year</a> (FY2025 to FY2026), the sharpest spike of any peer county. When HUD's own methodology detects a surge that large, it is confirming what renters already know.</p>
+
+<h2>The burden</h2>
+
+<div class="stat-grid">
+<div class="stat-card red">
+<div class="number">51.8%</div>
+<div class="label">of Lansing renters are cost-burdened by the federal 30% standard, which understates the actual share who cannot cover basic needs</div>
+<div class="source"><a href="https://data.census.gov/table/ACSDT5Y2022.B25070?g=160XX00US2646000">Census ACS B25070</a>, City of Lansing, 2022. 11,555 of 22,300 renter households.</div>
+</div>
+<div class="stat-card red">
+<div class="number">25.6%</div>
+<div class="label">are severely cost-burdened, paying more than half their income just on rent, before transportation, food, or anything else</div>
+<div class="source"><a href="https://data.census.gov/table/ACSDT5Y2022.B25070?g=160XX00US2646000">Census ACS B25070</a>, City of Lansing, 2022. 5,700 renter households.</div>
+</div>
+<div class="stat-card orange">
+<div class="number">648</div>
+<div class="label">people were homeless in the Lansing/Ingham County area on a single night in January 2024, including 134 children</div>
+<div class="source"><a href="https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_MI-508-2024_MI_2024.pdf">HUD MI-508 Point-in-Time Count</a>, Jan 30, 2024</div>
+</div>
+<div class="stat-card">
+<div class="number">900+</div>
+<div class="label">properties are currently red-tagged or pink-tagged for code violations in Lansing</div>
+<div class="source"><a href="https://www.wilx.com/2026/02/26/lansing-proposes-four-tier-property-tagging-system-with-fines-up-500-day/">WILX, Feb 26, 2026</a></div>
+</div>
+</div>
+
+<p>By the federal 30% standard, more than one in two Lansing renters is cost-burdened, and one in four pays more than half their income on rent alone. But rent is only one bill. When you add in a car, food, a doctor, and the electric bill, the typical Lansing renter household comes up $1,077 short every month, and half of renters earn less than that. The affordable housing that does exist is <a href="https://www.wkar.org/wkar-news/2025-02-18/more-than-100-new-affordable-apartments-coming-to-lansing-in-2026">98% occupied</a>, with waitlists that open once every 10 months for a five-day window. When the Lansing Housing Commission last opened applications, <a href="https://www.lansingcitypulse.com/stories/in-lansing-the-issue-of-affordable-housing-a-two-headed-monster,85818">2,800 people applied in five days</a> and were lotteried down to 600.</p>
+
+<h2>The racial disparity</h2>
+
+<figure>
+<img src="../img/housing-burden-map.svg" alt="Chart showing five Lansing census tracts where renter cost burden and non-white population overlap. Tract 36.01 in south Lansing is 71.7% cost-burdened and 70.5% non-white. Tract 7 in west Lansing is 58.3% burdened, 66.5% non-white, and 82.2% renter. The MSU corridor has higher burden but lower non-white population, reflecting transient student demographics rather than persistent poverty." style="width:100%; max-width:850px;">
+<figcaption>Where cost burden and racial demographics overlap in Lansing. "Cost-burdened" uses the federal 30% threshold, which understates the problem (see residual income analysis above). Source: <a href="https://data.census.gov/table/ACSDT5Y2022.B25070?g=160XX00US2646000">Census ACS 2022, City of Lansing</a>.</figcaption>
+</figure>
+
+<table class="crisis-table">
+<thead><tr><th>Metric</th><th>Black</th><th>White</th><th>Disparity</th></tr></thead>
+<tbody>
+<tr><td>Mortgage denial rate</td><td>39.5%</td><td>21.9%</td><td>1.8x</td></tr>
+<tr><td>Expected income at age 35 (low-income origin)</td><td>$22,641</td><td>$32,108</td><td>-$9,467</td></tr>
+<tr><td>Incarceration rate (per 100K)</td><td>757</td><td>118</td><td>6.4x</td></tr>
+<tr><td>Households below ALICE threshold</td><td>62%</td><td>38%</td><td>1.6x</td></tr>
+</tbody>
+</table>
+<p style="font-size:0.8em; color:#888;">Sources: <a href="https://ffiec.cfpb.gov/data-browser/">HMDA/CFPB</a> (Ingham County, 2023); <a href="https://opportunityinsights.org/">Opportunity Insights</a> (FIPS 26065); <a href="https://www.vera.org/publications/incarceration-trends-in-ingham-county-michigan">Vera Institute</a> (2019); <a href="https://unitedforscmi.org/alice-41-of-ingham-county-households-below-the-alice-threshold/">United Way ALICE Report</a> (2025).</p>
+
+<p>In the Lansing area, Black applicants are denied mortgages at nearly twice the rate of white applicants. When denied, they were seeking loans averaging <a href="https://ffiec.cfpb.gov/data-browser/">$93,601</a>, which is $19,057 less than denied white applicants. They were already pursuing more modest homeownership and still being rejected at higher rates. The neighborhoods with the highest renter cost burden overlap with the highest concentrations of Black residents: <a href="https://data.census.gov/table/ACSDT5Y2022.B25070?g=160XX00US2646000">Tract 36.01</a> in South Lansing has 71.7% of renters exceeding the 30% threshold and a 70.5% non-white population, Tract 7 on the Westside has 58.3% exceeding the threshold with a population that is 45% Black and 82.2% renter, and Tract 21.01 on the Eastside is 74.1% non-white with 57% exceeding the threshold. In neighborhoods where the 30% standard already shows a majority burdened, the actual shortfall against basic needs is deeper still.</p>
+
+<h2>Who owns the housing</h2>
+
+<figure>
+<img src="../img/housing-ownership-breakdown.svg" alt="Stacked bar showing Lansing residential parcel ownership: 70.8% owner-occupied, 10.1% local investor, 8.3% mega-landlords (24 entities controlling 946 parcels), 3.3% out-of-state. Largest operators: DTN Management (44 LLCs, 132 parcels), Woodside Meadows (Delaware LLC, NYC principal), Christian Nwobu (40+ properties, LARA-delinquent LLC)." style="width:100%; max-width:850px;">
+<figcaption>29.6% of residential parcels are non-owner-occupied. Sources: <a href="https://bsaonline.com/">BS&amp;A Online</a>, City of Lansing 2025 FOIA export.</figcaption>
+</figure>
+
+<figure>
+<img src="../img/housing-eviction-asymmetry.svg" alt="Side-by-side comparison: 4.8% of tenants have legal representation in eviction court vs. 83.2% of landlords. Landlords are 17 times more likely to have a lawyer. Michigan has no right to counsel in eviction cases." style="width:100%; max-width:700px;">
+<figcaption>Source: <a href="https://poverty.umich.edu/research-funding-opportunities/data-tools/michigan-evictions/">University of Michigan Poverty Solutions</a>.</figcaption>
+</figure>
+
+<div class="stat-grid">
+<div class="stat-card">
+<div class="number">29.6%</div>
+<div class="label">of residential parcels in Lansing are non-owner-occupied</div>
+<div class="source"><a href="https://bsaonline.com/">BS&A Online</a>, Ingham County assessor data, 2025</div>
+</div>
+<div class="stat-card">
+<div class="number">24</div>
+<div class="label">mega-landlords control 946 parcels (8.3% of residential stock)</div>
+<div class="source">BS&A parcel analysis, 2025 FOIA export</div>
+</div>
+<div class="stat-card orange">
+<div class="number">3.3%</div>
+<div class="label">of parcels owned from out of state</div>
+<div class="source">BS&A owner address analysis, 2025</div>
+</div>
+<div class="stat-card">
+<div class="number">4.8%</div>
+<div class="label">of tenants have legal representation in eviction proceedings. 83.2% of landlords do.</div>
+<div class="source"><a href="https://poverty.umich.edu/research-funding-opportunities/data-tools/michigan-evictions/">U of M Poverty Solutions</a></div>
+</div>
+</div>
+
+<p>Nearly a third of Lansing's residential parcels are owned by someone who does not live in them. The largest operators manage dozens of LLCs across multiple states, making code enforcement and accountability difficult. When a tenant in one of these properties faces eviction, there is a <a href="https://poverty.umich.edu/research-funding-opportunities/data-tools/michigan-evictions/">95% chance they will not have a lawyer</a>, while the landlord almost certainly will.</p>
+
+<h2>What is being done</h2>
+
+<p>Ingham County voters passed a <a href="https://nationalhousingcrisis.org/case-study/ingham-county-mi-lansing-2024/">housing and homelessness millage</a> in November 2024, generating $5.6 million per year for four years. The city purchased <a href="https://www.wkar.org/wkar-news/2025-08-12/lansing-to-build-pod-village-for-unhoused-residents">50 ModPod units</a> for $645,000 as transitional housing for people who are unhoused. The Lansing Housing Commission has <a href="https://www.wilx.com/2026/02/20/washington-apartments-rehabilitation-will-bring-senior-housing-lansings-reo-town/">111 new affordable units</a> under construction, the first new LHC construction in 20 years, with 50 additional senior units planned in REO Town.</p>
+
+<p>The state has a <a href="https://www.michigan.gov/mshda/developers/statewide-housing-plan">goal of 115,000 new units</a> and has created roughly 84,000 so far. Governor Whitmer <a href="https://www.wilx.com/2025/02/03/gov-whitmer-proposes-2b-affordable-housing/">proposed $2 billion</a> for affordable housing in 2025. <a href="https://www.wkar.org/wkar-news/2026-02-17/bipartisan-housing-bills-planned-for-legislative-introduction">Bipartisan legislation</a> introduced in February 2026 would allow duplexes in single-family zones and reduce parking requirements.</p>
+
+<p>These are responses to a crisis that has been building for years. Whether they are proportional to the scale of the problem depends on how you read the numbers above. Michigan is still <a href="https://nlihc.org/housing-needs-by-state/michigan">short 195,462 rental homes</a> affordable to its lowest-income renters. In Lansing, the <a href="https://data.census.gov/table/ACSDT5Y2022.B25004?g=160XX00US2646000">housing availability rate is 3.1%</a>, below the 5% threshold economists consider healthy, with 2,501 housing units sitting off-market entirely and affordable housing running at 98% occupancy with a waitlist measured in years.</p>
+
+<p>Who benefits from a housing market this tight, and who in city government is responsible for the policies that produced it?</p>
+
+<hr>
+
+<div class="methodology">
+<h3>Sources</h3>
+<p><a href="https://unitedforscmi.org/alice-41-of-ingham-county-households-below-the-alice-threshold/">United Way ALICE Report</a>, 2025 edition (Ingham County). <a href="https://nlihc.org/oor/state/mi">NLIHC Out of Reach 2025</a> (Michigan). <a href="https://data.census.gov/table/ACSDT5Y2022.B25070">Census ACS B25070</a> (renter cost burden, 2022). <a href="https://data.census.gov/table/ACSDT5Y2022.B25119">Census ACS B25119</a> (renter income, 2023). <a href="https://www.zillow.com/research/data/">Zillow Observed Rent Index</a> (metro and ZIP, January 2022-2026). <a href="https://www.huduser.gov/portal/datasets/fmr.html">HUD Fair Market Rents</a> (FY2024-2026). <a href="https://www.bls.gov/oes/current/oes_29620.htm">BLS Occupational Employment and Wage Statistics</a> (Lansing-East Lansing MSA, May 2024). <a href="https://ffiec.cfpb.gov/data-browser/">HMDA/CFPB</a> (Ingham County mortgage data, 2023). <a href="https://opportunityinsights.org/">Opportunity Insights</a> (county outcomes, FIPS 26065). <a href="https://www.vera.org/publications/incarceration-trends-in-ingham-county-michigan">Vera Institute</a> (incarceration, 2019). <a href="https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_MI-508-2024_MI_2024.pdf">HUD MI-508 Point-in-Time Count</a> (Jan 30, 2024). <a href="https://poverty.umich.edu/research-funding-opportunities/data-tools/michigan-evictions/">U of M Poverty Solutions</a> (eviction data). <a href="https://bsaonline.com/">BS&A Online</a> and City of Lansing FOIA export (parcel data, 2025). <a href="https://www.detroitnews.com/story/business/real-estate/2026/02/22/michigan-rent-increases-lansing-sees-sharpest-change/88494809007/">Detroit News</a> (Feb 22, 2026, rent acceleration). <a href="https://www.wilx.com/2026/02/26/lansing-proposes-four-tier-property-tagging-system-with-fines-up-500-day/">WILX</a> (Feb 26, 2026, 900+ tagged properties). <a href="https://www.lansingcitypulse.com/stories/in-lansing-the-issue-of-affordable-housing-a-two-headed-monster,85818">City Pulse</a> (affordable housing occupancy, waitlist). <a href="https://nationalhousingcrisis.org/case-study/ingham-county-mi-lansing-2024/">National Housing Crisis Task Force</a> (Ingham County millage). <a href="https://nlihc.org/housing-needs-by-state/michigan">NLIHC Michigan Housing Profile</a> (195,462-unit shortage). <a href="https://mihousingdata.org/">Michigan Housing Data Portal</a> (1.8% availability).</p>
+</div>
+
+</article>
+</main>
+<footer>Public records analysis. No ads. No cookies. Basic analytics by <a href="https://www.goatcounter.com">GoatCounter</a>.</footer>
+<script data-goatcounter="https://goatblog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

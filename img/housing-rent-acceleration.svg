@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="system-ui, -apple-system, sans-serif">
+  <style>
+    .header { font-size: 15px; fill: #1a1a1a; font-weight: 700; }
+    .subheader { font-size: 11px; fill: #666; }
+    .city-label { font-size: 11px; font-weight: 600; }
+    .pct { font-size: 11px; font-weight: 700; }
+    .dollar { font-size: 11px; font-weight: 600; fill: #555; }
+    .note { font-size: 9px; fill: #999; }
+    .col-header { font-size: 9px; fill: #888; font-weight: 600; text-transform: uppercase; }
+  </style>
+
+  <text x="375" y="28" text-anchor="middle" class="header">Lansing Is Now Michigan's Fastest-Rising Rental Market</text>
+  <text x="375" y="44" text-anchor="middle" class="subheader">Zillow Observed Rent Index, 4-year change (Jan 2022 to Jan 2026)</text>
+
+  <!-- Column headers -->
+  <text x="640" y="68" text-anchor="middle" class="col-header">4-yr change</text>
+  <text x="730" y="68" text-anchor="middle" class="col-header">Rent now</text>
+
+  <!-- Y axis -->
+  <line x1="180" y1="75" x2="180" y2="340" stroke="#ddd" stroke-width="1"/>
+
+  <!-- Lansing: 25.3% -->
+  <rect x="180" y="80" width="380" height="38" rx="3" fill="#b71c1c"/>
+  <text x="175" y="103" text-anchor="end" class="city-label" fill="#b71c1c">Lansing</text>
+  <text x="640" y="103" text-anchor="middle" class="pct" fill="#b71c1c">+25.3%</text>
+  <text x="730" y="103" text-anchor="middle" class="dollar">$1,304</text>
+
+  <!-- Grand Rapids: 21.1% -->
+  <rect x="180" y="130" width="317" height="38" rx="3" fill="#e65100"/>
+  <text x="175" y="153" text-anchor="end" class="city-label" fill="#e65100">Grand Rapids</text>
+  <text x="640" y="153" text-anchor="middle" class="pct" fill="#e65100">+21.1%</text>
+  <text x="730" y="153" text-anchor="middle" class="dollar">$1,646</text>
+
+  <!-- Flint: 20.2% -->
+  <rect x="180" y="180" width="303" height="38" rx="3" fill="#f57c00"/>
+  <text x="175" y="203" text-anchor="end" class="city-label" fill="#f57c00">Flint</text>
+  <text x="640" y="203" text-anchor="middle" class="pct" fill="#f57c00">+20.2%</text>
+  <text x="730" y="203" text-anchor="middle" class="dollar">$1,066</text>
+
+  <!-- Ann Arbor: 19.2% -->
+  <rect x="180" y="230" width="288" height="38" rx="3" fill="#ffa726"/>
+  <text x="175" y="253" text-anchor="end" class="city-label" fill="#e65100">Ann Arbor</text>
+  <text x="640" y="253" text-anchor="middle" class="pct" fill="#e65100">+19.2%</text>
+  <text x="730" y="253" text-anchor="middle" class="dollar">$2,050</text>
+
+  <!-- Kalamazoo: 18.2% -->
+  <rect x="180" y="280" width="273" height="38" rx="3" fill="#ffb74d"/>
+  <text x="175" y="303" text-anchor="end" class="city-label" fill="#e65100">Kalamazoo</text>
+  <text x="640" y="303" text-anchor="middle" class="pct" fill="#e65100">+18.2%</text>
+  <text x="730" y="303" text-anchor="middle" class="dollar">$1,354</text>
+
+  <!-- Detroit: 16.9% -->
+  <rect x="180" y="330" width="254" height="38" rx="3" fill="#ffcc80"/>
+  <text x="175" y="353" text-anchor="end" class="city-label" fill="#e65100">Detroit</text>
+  <text x="640" y="353" text-anchor="middle" class="pct" fill="#e65100">+16.9%</text>
+  <text x="730" y="353" text-anchor="middle" class="dollar">$1,455</text>
+
+  <text x="400" y="395" text-anchor="middle" class="note">Source: Zillow Observed Rent Index (ZORI), metro-level, January values, 2022-2026.</text>
+  <text x="400" y="409" text-anchor="middle" class="note">Lansing has the lowest rents and the fastest increase.</text>
+</svg>
