@@ -5,8 +5,22 @@
   <link>https://rhinocerii.github.io/blahrgg/</link>
   <description>Public records investigations into local government, campaign finance, and corporate influence in Michigan.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Apr 2026 12:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 02 Apr 2026 21:00:00 GMT</lastBuildDate>
   <atom:link href="https://rhinocerii.github.io/blahrgg/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Fact-Checking Deep Green's Emissions Blog Post</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/emissions-blog-fact-check.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/emissions-blog-fact-check.html</guid>
+    <pubDate>Thu, 02 Apr 2026 21:00:00 GMT</pubDate>
+    <description>Deep Green published an emissions table that omits CO2, cites a BWL document that does not exist in any public file, and conceals that the fuel cells run on natural gas. The source document was never filed with the City Clerk. BWL, the project partner, prepared the analysis.</description>
+  </item>
+  <item>
+    <title>Socrates Is Not a Cat: A Citizen's Guide to Logical Fallacies</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/logical-fallacies.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/logical-fallacies.html</guid>
+    <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+    <description>When officials sell a project, they rely on arguments that sound logical but fall apart under scrutiny. 25 real examples from the Deep Green data center debate, named and explained so you can spot them next time.</description>
+  </item>
   <item>
     <title>Lansing's Housing Crisis: Renters</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-numbers.html</link>
