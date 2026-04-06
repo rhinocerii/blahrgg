@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 730" style="max-width:100%; height:auto; font-family:Georgia, serif;">
+  <rect width="760" height="730" fill="#ffffff"/>
+  <text x="10" y="20" font-size="14" font-weight="bold" fill="#1a1a1a">Can Lansing renters afford basic needs? By household composition</text>
+  <text x="10" y="36" font-size="10" fill="#555">Each chart shows that composition's own income distribution. Red = below income needed for housing and basic needs. Black = above.</text>
+  <text x="42" y="61" font-size="10" font-weight="bold" fill="#1a1a1a">1 adult, no children <tspan font-weight="normal" font-size="8" fill="#777">(17,148 total)</tspan></text>
+  <text x="372" y="61" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">67% below &#8594; needs $45K</text>
+  <rect x="42" y="78" width="200.428" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="44.7" y="130.82075471698113" width="24.599999999999998" height="46.17924528301887" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="74.7" y="118.95597484276729" width="24.599999999999998" height="58.0440251572327" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="104.7" y="123.14150943396226" width="24.599999999999998" height="53.85849056603774" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="134.7" y="135.87106918238993" width="24.599999999999998" height="41.12893081761006" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="164.7" y="119.26729559748428" width="24.599999999999998" height="57.73270440251572" fill="rgb(176,28,28)" rx="1"/>
+  <rect x="194.7" y="99.13522012578616" width="24.599999999999998" height="77.86477987421384" fill="rgb(152,28,28)" rx="1"/>
+  <rect x="224.7" y="84.67610062893081" width="24.599999999999998" height="92.32389937106919" fill="rgb(113,27,27)" rx="1"/>
+  <rect x="254.7" y="78" width="24.599999999999998" height="99" fill="rgb(50,26,26)" rx="1"/>
+  <rect x="284.7" y="146.66352201257862" width="24.599999999999998" height="30.336477987421382" fill="rgb(26,26,26)" rx="1"/>
+  <rect x="314.7" y="150.12264150943395" width="24.599999999999998" height="26.87735849056604" fill="rgb(26,26,26)" rx="1"/>
+  <rect x="344.7" y="167.1761006289308" width="24.599999999999998" height="9.823899371069183" fill="rgb(26,26,26)" rx="1"/>
+  <line x1="242.428" y1="76" x2="242.428" y2="179" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="57" y="127.82075471698113" font-size="6" text-anchor="middle" fill="#555">1,335</text>
+  <text x="87" y="115.95597484276729" font-size="6" text-anchor="middle" fill="#555">1,678</text>
+  <text x="117" y="120.14150943396226" font-size="6" text-anchor="middle" fill="#555">1,557</text>
+  <text x="147" y="132.87106918238993" font-size="6" text-anchor="middle" fill="#555">1,189</text>
+  <text x="177" y="116.26729559748428" font-size="6" text-anchor="middle" fill="#555">1,669</text>
+  <text x="207" y="96.13522012578616" font-size="6" text-anchor="middle" fill="#555">2,251</text>
+  <text x="237" y="81.67610062893081" font-size="6" text-anchor="middle" fill="#555">2,669</text>
+  <text x="267" y="75" font-size="6" text-anchor="middle" fill="#555">2,862</text>
+  <text x="297" y="143.66352201257862" font-size="6" text-anchor="middle" fill="#555">877</text>
+  <text x="327" y="147.12264150943395" font-size="6" text-anchor="middle" fill="#555">777</text>
+  <text x="357" y="164.1761006289308" font-size="6" text-anchor="middle" fill="#555">284</text>
+  <line x1="42" y1="177" x2="372" y2="177" stroke="#ddd" stroke-width="0.5"/>
+  <text x="57" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 57 183)">&lt;$5K</text>
+  <text x="87" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 87 183)">$5-10K</text>
+  <text x="117" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 117 183)">$10-15K</text>
+  <text x="147" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 147 183)">$15-20K</text>
+  <text x="177" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 177 183)">$20-25K</text>
+  <text x="207" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 207 183)">$25-35K</text>
+  <text x="237" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 237 183)">$35-50K</text>
+  <text x="267" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 267 183)">$50-75K</text>
+  <text x="297" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 297 183)">$75-100K</text>
+  <text x="327" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 327 183)">$100-150K</text>
+  <text x="357" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 357 183)">$150K+</text>
+  <rect x="12" y="48" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="412" y="61" font-size="10" font-weight="bold" fill="#1a1a1a">2 adults, no children <tspan font-weight="normal" font-size="8" fill="#777">(1,870 total)</tspan></text>
+  <text x="742" y="61" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">46% below &#8594; needs $63K</text>
+  <rect x="412" y="78" width="225.63120000000004" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="414.7" y="155.98584905660377" width="24.599999999999998" height="21.014150943396228" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="444.7" y="168.5943396226415" width="24.599999999999998" height="8.40566037735849" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="474.7" y="173.96462264150944" width="24.599999999999998" height="3.035377358490566" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="504.7" y="171.86320754716982" width="24.599999999999998" height="5.136792452830189" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="534.7" y="163.2240566037736" width="24.599999999999998" height="13.775943396226415" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="564.7" y="122.83018867924528" width="24.599999999999998" height="54.16981132075472" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="594.7" y="130.30188679245282" width="24.599999999999998" height="46.69811320754717" fill="rgb(169,28,28)" rx="1"/>
+  <rect x="624.7" y="84.5377358490566" width="24.599999999999998" height="92.4622641509434" fill="rgb(106,27,27)" rx="1"/>
+  <rect x="654.7" y="78" width="24.599999999999998" height="99" fill="rgb(28,26,26)" rx="1"/>
+  <rect x="684.7" y="117.45990566037736" width="24.599999999999998" height="59.540094339622634" fill="rgb(26,26,26)" rx="1"/>
+  <rect x="714.7" y="143.61084905660377" width="24.599999999999998" height="33.389150943396224" fill="rgb(26,26,26)" rx="1"/>
+  <line x1="637.6312" y1="76" x2="637.6312" y2="179" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="427" y="152.98584905660377" font-size="6" text-anchor="middle" fill="#555">90</text>
+  <text x="457" y="165.5943396226415" font-size="6" text-anchor="middle" fill="#555">36</text>
+  <text x="487" y="170.96462264150944" font-size="6" text-anchor="middle" fill="#555">13</text>
+  <text x="517" y="168.86320754716982" font-size="6" text-anchor="middle" fill="#555">22</text>
+  <text x="547" y="160.2240566037736" font-size="6" text-anchor="middle" fill="#555">59</text>
+  <text x="577" y="119.83018867924528" font-size="6" text-anchor="middle" fill="#555">232</text>
+  <text x="607" y="127.30188679245282" font-size="6" text-anchor="middle" fill="#555">200</text>
+  <text x="637" y="81.5377358490566" font-size="6" text-anchor="middle" fill="#555">396</text>
+  <text x="667" y="75" font-size="6" text-anchor="middle" fill="#555">424</text>
+  <text x="697" y="114.45990566037736" font-size="6" text-anchor="middle" fill="#555">255</text>
+  <text x="727" y="140.61084905660377" font-size="6" text-anchor="middle" fill="#555">143</text>
+  <line x1="412" y1="177" x2="742" y2="177" stroke="#ddd" stroke-width="0.5"/>
+  <text x="427" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 427 183)">&lt;$5K</text>
+  <text x="457" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 457 183)">$5-10K</text>
+  <text x="487" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 487 183)">$10-15K</text>
+  <text x="517" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 517 183)">$15-20K</text>
+  <text x="547" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 547 183)">$20-25K</text>
+  <text x="577" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 577 183)">$25-35K</text>
+  <text x="607" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 607 183)">$35-50K</text>
+  <text x="637" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 637 183)">$50-75K</text>
+  <text x="667" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 667 183)">$75-100K</text>
+  <text x="697" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 697 183)">$100-150K</text>
+  <text x="727" y="183" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 727 183)">$150K+</text>
+  <rect x="382" y="48" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="42" y="226" font-size="10" font-weight="bold" fill="#1a1a1a">2 parents + 1 child <tspan font-weight="normal" font-size="8" fill="#777">(612 total)</tspan></text>
+  <text x="372" y="226" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">60% below &#8594; needs $74K</text>
+  <rect x="42" y="243" width="238.72440000000006" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="104.7" y="339" width="24.599999999999998" height="3" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="224.7" y="331.5176470588235" width="24.599999999999998" height="10.48235294117647" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="254.7" y="243" width="24.599999999999998" height="99" fill="rgb(140,27,27)" rx="1"/>
+  <rect x="284.7" y="335.01176470588234" width="24.599999999999998" height="6.988235294117647" fill="rgb(62,26,26)" rx="1"/>
+  <rect x="314.7" y="313.1735294117647" width="24.599999999999998" height="28.826470588235296" fill="rgb(26,26,26)" rx="1"/>
+  <rect x="344.7" y="310.84411764705885" width="24.599999999999998" height="31.155882352941177" fill="rgb(26,26,26)" rx="1"/>
+  <line x1="280.72440000000006" y1="241" x2="280.72440000000006" y2="344" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="57" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="87" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="117" y="336" font-size="6" text-anchor="middle" fill="#555">6</text>
+  <text x="147" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="177" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="207" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="237" y="328.5176470588235" font-size="6" text-anchor="middle" fill="#555">36</text>
+  <text x="267" y="240" font-size="6" text-anchor="middle" fill="#555">340</text>
+  <text x="297" y="332.01176470588234" font-size="6" text-anchor="middle" fill="#555">24</text>
+  <text x="327" y="310.1735294117647" font-size="6" text-anchor="middle" fill="#555">99</text>
+  <text x="357" y="307.84411764705885" font-size="6" text-anchor="middle" fill="#555">107</text>
+  <line x1="42" y1="342" x2="372" y2="342" stroke="#ddd" stroke-width="0.5"/>
+  <text x="57" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 57 348)">&lt;$5K</text>
+  <text x="87" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 87 348)">$5-10K</text>
+  <text x="117" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 117 348)">$10-15K</text>
+  <text x="147" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 147 348)">$15-20K</text>
+  <text x="177" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 177 348)">$20-25K</text>
+  <text x="207" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 207 348)">$25-35K</text>
+  <text x="237" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 237 348)">$35-50K</text>
+  <text x="267" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 267 348)">$50-75K</text>
+  <text x="297" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 297 348)">$75-100K</text>
+  <text x="327" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 327 348)">$100-150K</text>
+  <text x="357" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 357 348)">$150K+</text>
+  <rect x="12" y="213" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="412" y="226" font-size="10" font-weight="bold" fill="#1a1a1a">2 parents + 2 children <tspan font-weight="normal" font-size="8" fill="#777">(864 total)</tspan></text>
+  <text x="742" y="226" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">54% below &#8594; needs $83K</text>
+  <rect x="412" y="243" width="249.31560000000002" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="564.7" y="255.53164556962025" width="24.599999999999998" height="86.46835443037975" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="594.7" y="339" width="24.599999999999998" height="3" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="624.7" y="243" width="24.599999999999998" height="99" fill="rgb(168,28,28)" rx="1"/>
+  <rect x="654.7" y="319.44303797468353" width="24.599999999999998" height="22.556962025316455" fill="rgb(90,27,27)" rx="1"/>
+  <rect x="684.7" y="269.7341772151899" width="24.599999999999998" height="72.26582278481013" fill="rgb(26,26,26)" rx="1"/>
+  <rect x="714.7" y="263.46835443037975" width="24.599999999999998" height="78.53164556962025" fill="rgb(26,26,26)" rx="1"/>
+  <line x1="661.3156" y1="241" x2="661.3156" y2="344" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="427" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="457" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="487" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="517" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="547" y="338" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="577" y="252.53164556962025" font-size="6" text-anchor="middle" fill="#555">207</text>
+  <text x="607" y="336" font-size="6" text-anchor="middle" fill="#555">5</text>
+  <text x="637" y="240" font-size="6" text-anchor="middle" fill="#555">237</text>
+  <text x="667" y="316.44303797468353" font-size="6" text-anchor="middle" fill="#555">54</text>
+  <text x="697" y="266.7341772151899" font-size="6" text-anchor="middle" fill="#555">173</text>
+  <text x="727" y="260.46835443037975" font-size="6" text-anchor="middle" fill="#555">188</text>
+  <line x1="412" y1="342" x2="742" y2="342" stroke="#ddd" stroke-width="0.5"/>
+  <text x="427" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 427 348)">&lt;$5K</text>
+  <text x="457" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 457 348)">$5-10K</text>
+  <text x="487" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 487 348)">$10-15K</text>
+  <text x="517" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 517 348)">$15-20K</text>
+  <text x="547" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 547 348)">$20-25K</text>
+  <text x="577" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 577 348)">$25-35K</text>
+  <text x="607" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 607 348)">$35-50K</text>
+  <text x="637" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 637 348)">$50-75K</text>
+  <text x="667" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 667 348)">$75-100K</text>
+  <text x="697" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 697 348)">$100-150K</text>
+  <text x="727" y="348" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 727 348)">$150K+</text>
+  <rect x="382" y="213" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="42" y="391" font-size="10" font-weight="bold" fill="#1a1a1a">2 parents + 3 children <tspan font-weight="normal" font-size="8" fill="#777">(87 total)</tspan></text>
+  <text x="372" y="391" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">100% below &#8594; needs $90K</text>
+  <rect x="42" y="408" width="257.6064" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="74.7" y="461.74285714285713" width="24.599999999999998" height="45.25714285714285" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="194.7" y="475.8857142857143" width="24.599999999999998" height="31.114285714285714" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="224.7" y="436.2857142857143" width="24.599999999999998" height="70.71428571428572" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="254.7" y="408" width="24.599999999999998" height="99" fill="rgb(183,28,28)" rx="1"/>
+  <line x1="299.6064" y1="406" x2="299.6064" y2="509" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="57" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="87" y="458.74285714285713" font-size="6" text-anchor="middle" fill="#555">16</text>
+  <text x="117" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="147" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="177" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="207" y="472.8857142857143" font-size="6" text-anchor="middle" fill="#555">11</text>
+  <text x="237" y="433.2857142857143" font-size="6" text-anchor="middle" fill="#555">25</text>
+  <text x="267" y="405" font-size="6" text-anchor="middle" fill="#555">35</text>
+  <text x="297" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="327" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="357" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <line x1="42" y1="507" x2="372" y2="507" stroke="#ddd" stroke-width="0.5"/>
+  <text x="57" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 57 513)">&lt;$5K</text>
+  <text x="87" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 87 513)">$5-10K</text>
+  <text x="117" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 117 513)">$10-15K</text>
+  <text x="147" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 147 513)">$15-20K</text>
+  <text x="177" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 177 513)">$20-25K</text>
+  <text x="207" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 207 513)">$25-35K</text>
+  <text x="237" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 237 513)">$35-50K</text>
+  <text x="267" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 267 513)">$50-75K</text>
+  <text x="297" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 297 513)">$75-100K</text>
+  <text x="327" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 327 513)">$100-150K</text>
+  <text x="357" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 357 513)">$150K+</text>
+  <rect x="12" y="378" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="412" y="391" font-size="10" font-weight="bold" fill="#1a1a1a">Single parent + 1 child <tspan font-weight="normal" font-size="8" fill="#777">(1,653 total)</tspan></text>
+  <text x="742" y="391" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">82% below &#8594; needs $76K</text>
+  <rect x="412" y="408" width="241.0992" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="414.7" y="504" width="24.599999999999998" height="3" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="474.7" y="482.8110831234257" width="24.599999999999998" height="24.188916876574307" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="534.7" y="501.264483627204" width="24.599999999999998" height="5.73551637279597" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="564.7" y="478.57178841309826" width="24.599999999999998" height="28.428211586901764" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="594.7" y="499.5188916876574" width="24.599999999999998" height="7.48110831234257" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="624.7" y="408" width="24.599999999999998" height="99" fill="rgb(147,28,28)" rx="1"/>
+  <rect x="654.7" y="500.14231738035267" width="24.599999999999998" height="6.857682619647355" fill="rgb(68,27,27)" rx="1"/>
+  <rect x="684.7" y="475.57934508816123" width="24.599999999999998" height="31.420654911838792" fill="rgb(26,26,26)" rx="1"/>
+  <line x1="653.0992" y1="406" x2="653.0992" y2="509" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="427" y="501" font-size="6" text-anchor="middle" fill="#555">24</text>
+  <text x="457" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="487" y="479.8110831234257" font-size="6" text-anchor="middle" fill="#555">194</text>
+  <text x="517" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="547" y="498.264483627204" font-size="6" text-anchor="middle" fill="#555">46</text>
+  <text x="577" y="475.57178841309826" font-size="6" text-anchor="middle" fill="#555">228</text>
+  <text x="607" y="496.5188916876574" font-size="6" text-anchor="middle" fill="#555">60</text>
+  <text x="637" y="405" font-size="6" text-anchor="middle" fill="#555">794</text>
+  <text x="667" y="497.14231738035267" font-size="6" text-anchor="middle" fill="#555">55</text>
+  <text x="697" y="472.57934508816123" font-size="6" text-anchor="middle" fill="#555">252</text>
+  <text x="727" y="503" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <line x1="412" y1="507" x2="742" y2="507" stroke="#ddd" stroke-width="0.5"/>
+  <text x="427" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 427 513)">&lt;$5K</text>
+  <text x="457" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 457 513)">$5-10K</text>
+  <text x="487" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 487 513)">$10-15K</text>
+  <text x="517" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 517 513)">$15-20K</text>
+  <text x="547" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 547 513)">$20-25K</text>
+  <text x="577" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 577 513)">$25-35K</text>
+  <text x="607" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 607 513)">$35-50K</text>
+  <text x="637" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 637 513)">$50-75K</text>
+  <text x="667" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 667 513)">$75-100K</text>
+  <text x="697" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 697 513)">$100-150K</text>
+  <text x="727" y="513" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 727 513)">$150K+</text>
+  <rect x="382" y="378" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="42" y="556" font-size="10" font-weight="bold" fill="#1a1a1a">Single parent + 2 children <tspan font-weight="normal" font-size="8" fill="#777">(488 total)</tspan></text>
+  <text x="372" y="556" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">95% below &#8594; needs $96K</text>
+  <rect x="42" y="573" width="264.7152" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="134.7" y="641.1428571428571" width="24.599999999999998" height="30.857142857142858" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="164.7" y="633.4285714285714" width="24.599999999999998" height="38.57142857142858" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="224.7" y="573" width="24.599999999999998" height="99" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="254.7" y="619.2857142857143" width="24.599999999999998" height="52.71428571428571" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="284.7" y="579.4285714285714" width="24.599999999999998" height="92.57142857142857" fill="rgb(130,27,27)" rx="1"/>
+  <line x1="306.7152" y1="571" x2="306.7152" y2="674" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="57" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="87" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="117" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="147" y="638.1428571428571" font-size="6" text-anchor="middle" fill="#555">48</text>
+  <text x="177" y="630.4285714285714" font-size="6" text-anchor="middle" fill="#555">60</text>
+  <text x="207" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="237" y="570" font-size="6" text-anchor="middle" fill="#555">154</text>
+  <text x="267" y="616.2857142857143" font-size="6" text-anchor="middle" fill="#555">82</text>
+  <text x="297" y="576.4285714285714" font-size="6" text-anchor="middle" fill="#555">144</text>
+  <text x="327" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="357" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <line x1="42" y1="672" x2="372" y2="672" stroke="#ddd" stroke-width="0.5"/>
+  <text x="57" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 57 678)">&lt;$5K</text>
+  <text x="87" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 87 678)">$5-10K</text>
+  <text x="117" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 117 678)">$10-15K</text>
+  <text x="147" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 147 678)">$15-20K</text>
+  <text x="177" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 177 678)">$20-25K</text>
+  <text x="207" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 207 678)">$25-35K</text>
+  <text x="237" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 237 678)">$35-50K</text>
+  <text x="267" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 267 678)">$50-75K</text>
+  <text x="297" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 297 678)">$75-100K</text>
+  <text x="327" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 327 678)">$100-150K</text>
+  <text x="357" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 357 678)">$150K+</text>
+  <rect x="12" y="543" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="412" y="556" font-size="10" font-weight="bold" fill="#1a1a1a">Single parent + 3 children <tspan font-weight="normal" font-size="8" fill="#777">(914 total)</tspan></text>
+  <text x="742" y="556" font-size="9" text-anchor="end" fill="#b71c1c" font-weight="bold">97% below &#8594; needs $115K</text>
+  <rect x="412" y="573" width="279.1806" height="99" fill="#fce4e4" rx="2"/>
+  <rect x="504.7" y="607.6815286624204" width="24.599999999999998" height="64.31847133757961" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="564.7" y="573.6305732484077" width="24.599999999999998" height="98.36942675159236" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="594.7" y="656.2356687898089" width="24.599999999999998" height="15.764331210191083" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="624.7" y="573" width="24.599999999999998" height="99" fill="rgb(183,28,28)" rx="1"/>
+  <rect x="684.7" y="661.28025477707" width="24.599999999999998" height="10.719745222929937" fill="rgb(74,27,27)" rx="1"/>
+  <line x1="691.1806" y1="571" x2="691.1806" y2="674" stroke="#888" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="427" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="457" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="487" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="517" y="604.6815286624204" font-size="6" text-anchor="middle" fill="#555">204</text>
+  <text x="547" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="577" y="570.6305732484077" font-size="6" text-anchor="middle" fill="#555">312</text>
+  <text x="607" y="653.2356687898089" font-size="6" text-anchor="middle" fill="#555">50</text>
+  <text x="637" y="570" font-size="6" text-anchor="middle" fill="#555">314</text>
+  <text x="667" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <text x="697" y="658.28025477707" font-size="6" text-anchor="middle" fill="#555">34</text>
+  <text x="727" y="668" font-size="6" text-anchor="middle" fill="#bbb">0</text>
+  <line x1="412" y1="672" x2="742" y2="672" stroke="#ddd" stroke-width="0.5"/>
+  <text x="427" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 427 678)">&lt;$5K</text>
+  <text x="457" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 457 678)">$5-10K</text>
+  <text x="487" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 487 678)">$10-15K</text>
+  <text x="517" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 517 678)">$15-20K</text>
+  <text x="547" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 547 678)">$20-25K</text>
+  <text x="577" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 577 678)">$25-35K</text>
+  <text x="607" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 607 678)">$35-50K</text>
+  <text x="637" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 637 678)">$50-75K</text>
+  <text x="667" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 667 678)">$75-100K</text>
+  <text x="697" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 697 678)">$100-150K</text>
+  <text x="727" y="678" font-size="6" text-anchor="end" fill="#999" transform="rotate(-50 727 678)">$150K+</text>
+  <rect x="382" y="543" width="366" height="161" fill="none" stroke="#e8e8e8" stroke-width="0.5" rx="3"/>
+  <text x="10" y="722" font-size="8" fill="#999">Income distributions from ACS PUMS 2024 1-year (PUMA 01801, Lansing area), scaled to City of Lansing composition totals (B25115). Thresholds: residual-income method.</text>
+</svg>
