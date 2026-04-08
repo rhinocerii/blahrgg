@@ -5,105 +5,98 @@
   <link>https://rhinocerii.github.io/blahrgg/</link>
   <description>Public records investigations into local government, money, and power in Michigan.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 06 Apr 2026 23:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 18:00:00 GMT</lastBuildDate>
   <atom:link href="https://rhinocerii.github.io/blahrgg/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>The Document the Council Is Voting On: Deep Green's Buy-Sell Agreement</title>
+    <title>Lansing&apos;s Deep Green Due Diligence Gap</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/deep-green-operational-record.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/deep-green-operational-record.html</guid>
+    <pubDate>Wed, 08 Apr 2026 18:00:00 GMT</pubDate>
+    <description>Deep Green&apos;s flagship UK facility experienced three cooling failures in five months. Its only cloud customer removed the facility from public documentation. The company deleted &apos;heat reuse&apos; from the facility&apos;s own webpage. All of this was in public records during Lansing&apos;s five-month evaluation.</description>
+  </item>
+  <item>
+    <title>The Document the Council Is Voting On: Deep Green&apos;s Buy-Sell Agreement</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/the-document-council-is-voting-on.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/the-document-council-is-voting-on.html</guid>
-    <pubDate>Sun, 06 Apr 2026 23:00:00 GMT</pubDate>
-    <description>The buy-sell agreement between the City of Lansing and Deep Green Technologies is 14 pages long. The three pages that would contain binding commitments are blank. The words BWL, Bloom, fuel cell, waste heat, and hot water do not appear anywhere in the agreement.</description>
+    <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+    <description>The Deep Green buy-sell agreement is 14 pages long. The three pages that would contain binding commitments are blank.</description>
   </item>
   <item>
-    <title>BWL's Hot Water Conversion and Deep Green's Free Heat</title>
+    <title>BWL&apos;s Hot Water Conversion and Deep Green&apos;s Free Heat</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/steam-conversion-building-costs.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/steam-conversion-building-costs.html</guid>
-    <pubDate>Sun, 06 Apr 2026 22:00:00 GMT</pubDate>
-    <description>Deep Green's central promise is free waste heat for BWL's hot water system. That system does not exist yet. The waste heat covers roughly 12% of current heating capacity using equipment that has never lasted 10 years at comparable scale. The cost of converting each downtown building has never been disclosed.</description>
+    <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Deep Green&apos;s central promise is free waste heat for BWL&apos;s hot water system. That system doesn&apos;t exist yet. The cost of converting each downtown building to receive it has never been disclosed.</description>
   </item>
   <item>
-    <title>Lansing's Housing Crisis: By the Tract</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-tract.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-tract.html</guid>
-    <pubDate>Sun, 06 Apr 2026 18:00:00 GMT</pubDate>
-    <description>Census tract data, CDC health statistics, 1935 HOLC redlining grades, and USDA food access records mapped to 35 Lansing-area tracts. The 17 lowest-income tracts are 52.5% nonwhite with a 51.7% hardship rate. The 5 highest-income tracts: 28.0% nonwhite, 26.6% hardship.</description>
-  </item>
-  <item>
-    <title>Lansing's Housing Crisis: Wages Fall Short</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-wages-fall-short.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-wages-fall-short.html</guid>
-    <pubDate>Sun, 06 Apr 2026 12:00:00 GMT</pubDate>
-    <description>Parts 1 and 2 showed Lansing households can't cover basic needs. Nearly a third of local employment pays median wages below what a single adult needs. The county bought its residents' medical debt. Michigan has the highest auto insurance costs in the nation. BWL raised rates in back-to-back years.</description>
-  </item>
-  <item>
-    <title>Lansing's Housing Crisis: Homeowners</title>
+    <title>Lansing&apos;s Housing Crisis: Homeowners</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-homeowners.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-homeowners.html</guid>
-    <pubDate>Sat, 05 Apr 2026 22:00:00 GMT</pubDate>
-    <description>Lansing has the highest property tax rate in Ingham County. The lowest-value homes are assessed at nearly twice what the statutory formula specifies. 40% of Lansing homeowner households do not earn enough to cover housing and basic needs. Families with children face the tightest math.</description>
+    <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Lansing has the highest property tax rate in Ingham County. The lowest-value homes are over-assessed by 2x. The average house was built in 1946. For homeowners, the crisis is different but the math is just as bad.</description>
   </item>
   <item>
     <title>Twenty-Three Unanswered Questions About Deep Green</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/twenty-three-unanswered-questions.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/twenty-three-unanswered-questions.html</guid>
-    <pubDate>Sat, 04 Apr 2026 17:00:00 GMT</pubDate>
-    <description>The Lansing City Council votes Monday on a land sale and rezoning for the Deep Green data center. Here is what has not been disclosed, not been analyzed, and not been answered. Twenty-three gaps in the public record, each with a citation to the source showing the information is missing.</description>
+    <pubDate>Sat, 04 Apr 2026 12:00:00 GMT</pubDate>
+    <description>The Lansing City Council votes Monday on a land sale and rezoning for the Deep Green data center. Here is what has not been disclosed, not been analyzed, and not been answered.</description>
   </item>
   <item>
-    <title>Fact-Checking Deep Green's Emissions Blog Post</title>
+    <title>Fact-Checking Deep Green&apos;s Emissions Blog Post</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/emissions-blog-fact-check.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/emissions-blog-fact-check.html</guid>
-    <pubDate>Thu, 02 Apr 2026 21:00:00 GMT</pubDate>
-    <description>Deep Green published an emissions table that omits CO2, cites a BWL document that does not exist in any public file, and conceals that the fuel cells run on natural gas. The source document was never filed with the City Clerk. BWL, the project partner, prepared the analysis.</description>
-  </item>
-  <item>
-    <title>Socrates Is Not a Cat: A Citizen's Guide to Logical Fallacies</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/logical-fallacies.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/logical-fallacies.html</guid>
-    <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
-    <description>When officials sell a project, they rely on arguments that sound logical but fall apart under scrutiny. 25 real examples from the Deep Green data center debate, named and explained so you can spot them next time.</description>
-  </item>
-  <item>
-    <title>Lansing's Housing Crisis: Renters</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-numbers.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-numbers.html</guid>
     <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-    <description>A typical Lansing renter who works full time cannot cover rent, a car, groceries, and a doctor visit in the same month. The federal 30% affordability standard hides the problem because it only counts housing. When you count all five basics, the median renter household comes up $1,077 short every month.</description>
+    <description>Deep Green published a blog post claiming their fuel cells will reduce Lansing&apos;s emissions. Every material claim is false, misleading, or unverifiable. Here is the public record.</description>
   </item>
   <item>
-    <title>Deep Green's Parent Company Has Negative £435 Million in Net Assets</title>
+    <title>Deep Green&apos;s Parent Company Has Negative £435 Million in Net Assets</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/who-is-octopus.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/who-is-octopus.html</guid>
-    <pubDate>Wed, 01 Apr 2026 23:00:00 GMT</pubDate>
-    <description>Deep Green has 1.13 megawatts of operational capacity and is proposing 24 megawatts in Lansing. The company that controls it is failing UK financial resilience requirements, reported a £255 million loss, and its CEO sits on the UK government board while receiving state investment. The entity that would own the land is a nine-month-old Delaware LLC with a virtual mailbox in Grand Rapids.</description>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Deep Green has 1.13 megawatts of operational data center capacity. Lansing is being asked to approve 24 megawatts. The company that controls Deep Green is failing UK financial resilience requirements.</description>
   </item>
   <item>
-    <title>Fact-Checking the Mayor's Deep Green Letter</title>
+    <title>&quot;Under Duress&quot;: Why Is Deep Green Revenue in the City Budget?</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/under-duress-deep-green-budget.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/under-duress-deep-green-budget.html</guid>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Mayor Schor tied $1 million in fire, housing, and neighborhood funding to Deep Green approval the same night as the public hearing. A council member called it duress.</description>
+  </item>
+  <item>
+    <title>Fact-Checking the Mayor&apos;s Deep Green Letter</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/schor-letter-fact-check.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/schor-letter-fact-check.html</guid>
-    <pubDate>Wed, 01 Apr 2026 21:00:00 GMT</pubDate>
-    <description>Mayor Schor published a letter asking residents to support the Deep Green data center based on facts. The letter repeats a false claim about toxic chemicals that the EPA contradicts, cites an organization he belongs to as independent validation, and warns that basic city services depend on approving the project.</description>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Mayor Schor published a letter asking residents to support the Deep Green data center based on &apos;facts, not misinformation.&apos; Here is what the public record says about his claims.</description>
+  </item>
+  <item>
+    <title>Lansing&apos;s Housing Crisis: Wages Fall Short</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-wages-fall-short.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-wages-fall-short.html</guid>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Parts 1 and 2 showed Lansing households can&apos;t cover basic needs. This post maps why: low-wage employment, compounding debt, and hidden costs that make the gap wider.</description>
+  </item>
+  <item>
+    <title>Lansing&apos;s Housing Crisis: By the Tract</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-tract.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-tract.html</guid>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>The housing crisis doesn&apos;t hit Lansing evenly. Census tract data shows where income, poverty, health, and demographics cluster — and where they diverge.</description>
+  </item>
+  <item>
+    <title>Lansing&apos;s Housing Crisis: Renters</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-numbers.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-by-the-numbers.html</guid>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>More than half of Lansing renters are cost-burdened. Rents are rising faster than anywhere in Michigan. The federal 30% affordability standard hides the real problem. Here are the numbers.</description>
   </item>
   <item>
     <title>Deep Green: How Would You Vote?</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/how-would-you-vote.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/how-would-you-vote.html</guid>
-    <pubDate>Wed, 01 Apr 2026 18:00:00 GMT</pubDate>
-    <description>Every promise made about the Deep Green data center, checked against the public record. What is enforceable, what is verbal, what is under NDA, and what is contradicted by evidence. The arguments for approval, and what the record shows for each.</description>
-  </item>
-  <item>
-    <title>"Under Duress": Why Is Deep Green Revenue in the City Budget?</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/under-duress-deep-green-budget.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/under-duress-deep-green-budget.html</guid>
-    <pubDate>Wed, 01 Apr 2026 16:00:00 GMT</pubDate>
-    <description>Mayor Schor introduced a supplemental budget tying $1 million in fire, housing, and neighborhood funding to Deep Green approval the same night as the public hearing. Three council members pushed back. Then a robotext told residents the money would fund police, streets, and sidewalks. None of those services appear in any proposal.</description>
-  </item>
-  <item>
-    <title>Updated: Deep Green's $933K Tax Revenue Does Not Reach the General Fund</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/deep-green-tax-revenue.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/deep-green-tax-revenue.html#update-2026-04-01</guid>
-    <pubDate>Wed, 01 Apr 2026 15:00:00 GMT</pubDate>
-    <description>Update: Deep Green's CTO told a neighborhood meeting the $1 million ROE figure is "not based on 100% utilisation" and could be as low as $300,000 at reduced capacity. The flat $1M in the mayor's supplemental budget does not account for this.</description>
+    <pubDate>Wed, 01 Apr 2026 12:00:00 GMT</pubDate>
+    <description>Every promise, every contract, every claim — checked against the public record. Here is what council knows and what it doesn&apos;t. You decide.</description>
   </item>
   <item>
     <title>428 W Lenawee St Is a Hub for Dark Money Activity</title>
@@ -113,32 +106,39 @@
     <description>At least $698,000 from unions, utilities, and corporate PACs has flowed into 17 nonprofits registered at a single Lansing address. The organizations told the IRS they engaged in zero political activity. Public records show attack mailers, robocalls, and racist fabrications.</description>
   </item>
   <item>
-    <title>Bloom Energy Has a Pattern of Downplaying Toxic Waste</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/bloom-contradictions.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/bloom-contradictions.html</guid>
-    <pubDate>Thu, 26 Mar 2026 16:00:00 GMT</pubDate>
-    <description>In 2013, Bloom told a contractor its waste was nonhazardous. It contained benzene. In 2026, Bloom's VP told the Lansing City Council fuel cells generate no toxic chemicals. A claim-by-claim review with verdict ratings.</description>
-  </item>
-  <item>
     <title>Lansing: Fact-Checking the March 23 City Council Meeting</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/march-23-fact-check.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/march-23-fact-check.html</guid>
-    <pubDate>Thu, 26 Mar 2026 14:00:00 GMT</pubDate>
-    <description>What Deep Green, the mayor, and Bloom Energy said at the March 23 public hearing, checked against the public record. The tax revenue doesn't go where they said. The fire funding isn't in the budget. And Bloom's VP told Council fuel cells generate no toxic chemicals. The EPA says otherwise.</description>
+    <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+    <description>What Deep Green, the mayor, and supporters said at the March 23 City Council meeting — checked against the public record.</description>
+  </item>
+  <item>
+    <title>Socrates Is Not a Cat: A Citizen&apos;s Guide to Logical Fallacies</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/logical-fallacies.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/logical-fallacies.html</guid>
+    <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+    <description>All cats die. Socrates is dead. Therefore Socrates is a cat. When officials sell a project, they rely on arguments that sound logical but aren&apos;t. 19 real examples from the Deep Green data center debate, named and explained so you can spot them next time.</description>
   </item>
   <item>
     <title>Lansing: The Garza Conflict, Spelled Out</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/garza-conflict-spelled-out.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/garza-conflict-spelled-out.html</guid>
     <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Jeremy Garza is Vice President of UA Plumbers and Pipefitters Local 333, whose members would play a major role in the project. The Lansing City Charter says officers with conflicts cannot vote, and the land sale needs his vote to pass.</description>
+    <description>Lansing Council Member Jeremy Garza earns $126,742 per year from the Michigan Pipe Trades Association while voting on projects that benefit the pipe trades. The Lansing City Charter says officers with conflicts cannot vote, and the land sale needs his vote to pass.</description>
   </item>
   <item>
-    <title>Lansing Council: Donor Cheat Sheet</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/council-cheat-sheet.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/council-cheat-sheet.html</guid>
-    <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
-    <description>A public records lookup of campaign contributions from LRC-PAC, UA Local 333, and other influential donors to each of the eight sitting Lansing City Council members.</description>
+    <title>Lansing: Bloom Energy Has a Pattern of Downplaying Toxic Waste</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/bloom-contradictions.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/bloom-contradictions.html</guid>
+    <pubDate>Thu, 26 Mar 2026 12:00:00 GMT</pubDate>
+    <description>In 2013, Bloom Energy told a waste contractor its fuel cell canisters were nonhazardous. They contained benzene. In 2026, Bloom&apos;s VP told the Lansing City Council fuel cells generate no toxic chemicals. The EPA fined Bloom $1.16 million for hazardous waste violations.</description>
+  </item>
+  <item>
+    <title>How Consumers Energy&apos;s Dark Money Reaches Lansing City Hall</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/consumers-energy-dark-money-lansing.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/consumers-energy-dark-money-lansing.html</guid>
+    <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
+    <description>Between 2014 and 2017, Consumers Energy funneled $43.5 million into a single anonymous nonprofit. Public records trace how that money reaches Lansing City Hall through a network of 501(c)(4) organizations, a political consulting firm, and a sitting judge&apos;s former legal infrastructure.</description>
   </item>
   <item>
     <title>Lansing: A Conflict Question Could Reshape the Deep Green Land Sale Vote</title>
@@ -148,18 +148,25 @@
     <description>The Lansing City Charter requires six of eight votes to sell city property and bars members with financial interests from voting. Council Member Garza is VP of UA Local 333, which stands to benefit from the Deep Green project. If he cannot vote, the sale cannot pass.</description>
   </item>
   <item>
-    <title>Can Michigan Communities Trust the Data Center Coalition's "Independent" Information?</title>
+    <title>Lansing Council: Donor Cheat Sheet</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/council-cheat-sheet.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/council-cheat-sheet.html</guid>
+    <pubDate>Tue, 24 Mar 2026 12:00:00 GMT</pubDate>
+    <description>A public records lookup of campaign contributions from LRC-PAC, UA Local 333, and other influential donors to each of the eight sitting Lansing City Council members.</description>
+  </item>
+  <item>
+    <title>Can Michigan Communities Trust the Data Center Coalition&apos;s &quot;Independent&quot; Information?</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/mrdc-money-trail.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/mrdc-money-trail.html</guid>
     <pubDate>Sat, 21 Mar 2026 12:00:00 GMT</pubDate>
     <description>Michigan for Responsible Data Centers says it provides neutral information to communities evaluating data center proposals. Public records show its members fund the politicians who approve those projects, through channels designed to hide the source of the money.</description>
   </item>
   <item>
-    <title>Michigan's New Data Center "Information" Coalition Has the Hallmarks of an Astroturf Campaign</title>
+    <title>Michigan&apos;s New Data Center &quot;Information&quot; Coalition Has the Hallmarks of an Astroturf Campaign</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/mrdc-bellwether-pr.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/mrdc-bellwether-pr.html</guid>
     <pubDate>Fri, 20 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Michigan for Responsible Data Centers launched March 19 promising 'clear, accurate information.' Its website is managed by a PR firm that represents a data center developer. Its cited economic analysis was paid for by a coalition member. Its university guidebook was reviewed by coalition members before publication. No individuals are named anywhere on the site.</description>
+    <description>Michigan for Responsible Data Centers launched March 19 promising &apos;clear, accurate information.&apos; Its website is managed by a PR firm that represents a data center developer. Its cited economic analysis was paid for by a coalition member. Its university guidebook was reviewed by coalition members before publication. No individuals are named anywhere on the site.</description>
   </item>
   <item>
     <title>Lansing: Is the Council Being Set Up to Vote on Deep Green Blind? The Public Record Says Yes.</title>
@@ -169,25 +176,18 @@
     <description>The council votes soon on the Deep Green land sale and rezoning. Public records raise questions about undisclosed contracts, TIFA tax capture, missing studies, and an NDA that may not be legally defensible.</description>
   </item>
   <item>
-    <title>Lansing: Public Utility, Private Contract: The Deep Green Fuel Cell Deal</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/bwl-fuel-cell-liability.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/bwl-fuel-cell-liability.html</guid>
-    <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Deep Green would buy the fuel cells. BWL would own them. Bloom would operate them. The contracts are under NDA. Bloom's fuel cells in Delaware lasted seven years. The proposed BWL contract is twenty.</description>
-  </item>
-  <item>
-    <title>Deep Green's Projected $933K in Tax Revenue Does Not Reach the General Fund</title>
+    <title>Deep Green&apos;s Projected $933K in Tax Revenue Does Not Reach the General Fund</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/deep-green-tax-revenue.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/deep-green-tax-revenue.html</guid>
     <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
     <description>LEAP projects $933,081 in annual property tax from the Deep Green data center. Michigan TIF law diverts roughly half to the TIFA before it reaches any taxing authority. The mayor was corrected on camera.</description>
   </item>
   <item>
-    <title>The Lansing Chamber Funds Campaigns, Runs Advocacy, and Reports $0 in Political Spending</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/lrcc-990-financial-opacity.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/lrcc-990-financial-opacity.html</guid>
-    <pubDate>Sat, 14 Mar 2026 12:00:00 GMT</pubDate>
-    <description>The Lansing Regional Chamber's IRS filing shows $311,344 in fees with no vendor names and $0 in political spending. It operates a PAC that funded 6 of 8 Council members and endorsed a US Senate candidate but does not appear in the FEC database or the IRS Form 8871 disclosure system.</description>
+    <title>Lansing: Public Utility, Private Contract: The Deep Green Fuel Cell Deal</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/bwl-fuel-cell-liability.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/bwl-fuel-cell-liability.html</guid>
+    <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
+    <description>Deep Green would buy the fuel cells. BWL would own them. Bloom would operate them. The contracts are under NDA. Bloom&apos;s fuel cells in Delaware lasted seven years. The proposed BWL contract is twenty.</description>
   </item>
   <item>
     <title>How Organic Is the Support for Deep Green?</title>
@@ -197,32 +197,11 @@
     <description>Seven of the 12 template support letters generated through a paid advocacy platform for the Deep Green data center came from Lansing Regional Chamber members, award recipients, or policy committee participants. The Chamber published four press releases supporting the project without disclosing any of these connections.</description>
   </item>
   <item>
-    <title>Bloom Energy: Fined, Sued, and Subsidized in Three States</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/bloom-energy-record.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/bloom-energy-record.html</guid>
-    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Bloom Energy will operate the Deep Green data center's fuel cells in Lansing. In Delaware, Bloom received $580M+ in subsidies, was fined $1.37M by the EPA, and had fuel cells decommissioned after seven years.</description>
-  </item>
-  <item>
-    <title>Lansing: Did BWL's Board Know About Deep Green When It Approved a $100M Steam Conversion?</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/bwl-steam-conversion.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/bwl-steam-conversion.html</guid>
-    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
-    <description>The Lansing Board of Water and Light approved a $100M steam-to-hot-water conversion without mentioning Deep Green, the data center project whose waste heat would fill the resulting gap. The same consultant validated both sides.</description>
-  </item>
-  <item>
-    <title>Lansing Is Michigan's Fastest-Rising Rental Market</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-rent-acceleration.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-rent-acceleration.html</guid>
-    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Zillow, HUD, and Census data confirm Lansing rents rose 25.3% since 2022, outpacing every Michigan metro. Three ZIP codes saw double-digit annual increases, hitting the lowest-income neighborhoods hardest.</description>
-  </item>
-  <item>
-    <title>Lansing: BWL Steam Item Listed on Park Board Agenda, Missing from Minutes</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/park-board-missing-minutes.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/park-board-missing-minutes.html</guid>
-    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
-    <description>The Lansing Park Board's December 2025 agenda listed five items including BWL Wentworth Park Steam Conversion. The minutes listed three. The missing item sits on BWL's Deep Green construction corridor. The November meeting where it was introduced has zero documents on file.</description>
+    <title>The Lansing Chamber Funds Campaigns, Runs Advocacy, and Reports $0 in Political Spending</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/lrcc-990-financial-opacity.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/lrcc-990-financial-opacity.html</guid>
+    <pubDate>Sat, 14 Mar 2026 12:00:00 GMT</pubDate>
+    <description>The Lansing Regional Chamber&apos;s IRS filing shows $311,344 in fees with no vendor names and $0 in political spending. It operates a PAC that funded 6 of 8 Council members and endorsed a US Senate candidate but does not appear in the FEC database or the IRS Form 8871 disclosure system.</description>
   </item>
   <item>
     <title>Who Owns Lansing? 24 Landlords Control 946 Rental Parcels</title>
@@ -232,6 +211,41 @@
     <description>An analysis of 42,175 Lansing tax parcels reveals 24 mega-landlords controlling 946 rental properties, with eviction filing rates exceeding 100% for six of them. 10.4% of rental parcels are owned out of state.</description>
   </item>
   <item>
+    <title>Lansing: BWL Steam Item Listed on Park Board Agenda, Missing from Minutes</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/park-board-missing-minutes.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/park-board-missing-minutes.html</guid>
+    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
+    <description>The Lansing Park Board&apos;s December 2025 agenda listed five items including BWL Wentworth Park Steam Conversion. The minutes listed three. The missing item sits on BWL&apos;s Deep Green construction corridor. The November meeting where it was introduced has zero documents on file.</description>
+  </item>
+  <item>
+    <title>Lansing Is Michigan&apos;s Fastest-Rising Rental Market</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/lansing-rent-acceleration.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/lansing-rent-acceleration.html</guid>
+    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
+    <description>Zillow, HUD, and Census data confirm Lansing rents rose 25.3% since 2022, outpacing every Michigan metro. Three ZIP codes saw double-digit annual increases, hitting the lowest-income neighborhoods hardest.</description>
+  </item>
+  <item>
+    <title>Lansing: Did BWL&apos;s Board Know About Deep Green When It Approved a $100M Steam Conversion?</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/bwl-steam-conversion.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/bwl-steam-conversion.html</guid>
+    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
+    <description>The Lansing Board of Water and Light approved a $100M steam-to-hot-water conversion without mentioning Deep Green, the data center project whose waste heat would fill the resulting gap. The same consultant validated both sides.</description>
+  </item>
+  <item>
+    <title>Bloom Energy: Fined, Sued, and Subsidized in Three States</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/bloom-energy-record.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/bloom-energy-record.html</guid>
+    <pubDate>Fri, 13 Mar 2026 12:00:00 GMT</pubDate>
+    <description>Bloom Energy will operate the Deep Green data center&apos;s fuel cells in Lansing. In Delaware, Bloom received $580M+ in subsidies, was fined $1.37M by the EPA, and had fuel cells decommissioned after seven years.</description>
+  </item>
+  <item>
+    <title>Lansing Chamber PAC Funded 6 of 8 Council Members</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/lrc-pac-chamber-machine.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/lrc-pac-chamber-machine.html</guid>
+    <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
+    <description>The Lansing Regional Chamber&apos;s LRC-PAC contributed $30,750 to 6 of 8 sitting Council members. Its endorsed candidates win at rates above 85%. The same executives run both the PAC and project advocacy.</description>
+  </item>
+  <item>
     <title>Lansing Council Member Garza: Union VP Who Votes on Union Projects</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/garza-union-conflicts.html</link>
     <guid>https://rhinocerii.github.io/blahrgg/posts/garza-union-conflicts.html</guid>
@@ -239,11 +253,11 @@
     <description>Jeremy Garza is VP of UA Local 333 and a Lansing City Council member. His entire $48,050 campaign came from unions and PACs. He has never recused from a vote.</description>
   </item>
   <item>
-    <title>Lansing Chamber PAC Funded 6 of 8 Council Members</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/lrc-pac-chamber-machine.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/lrc-pac-chamber-machine.html</guid>
-    <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
-    <description>The Lansing Regional Chamber's LRC-PAC contributed $30,750 to 6 of 8 sitting Council members. Its endorsed candidates win at rates above 85%. The same executives run both the PAC and project advocacy.</description>
+    <title>Deep Green PR Rep Was a Lansing Planning Commissioner</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/hovey-revolving-door.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/hovey-revolving-door.html</guid>
+    <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
+    <description>Josh Hovey served on the Lansing Planning Commission through June 2025. Five months later he lobbied the same body as Deep Green&apos;s paid PR representative. He sits on the PAC that funded 6 of 8 Council members.</description>
   </item>
   <item>
     <title>Deep Green Support Letters Were Platform-Generated</title>
@@ -251,20 +265,6 @@
     <guid>https://rhinocerii.github.io/blahrgg/posts/deep-green-soft-edge.html</guid>
     <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
     <description>All 12 support letters submitted to Lansing City Council for the Deep Green data center were routed through The Soft Edge, an advocacy platform. Email header forensics reveal template clusters and loopback addresses.</description>
-  </item>
-  <item>
-    <title>Deep Green PR Rep Was a Lansing Planning Commissioner</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/hovey-revolving-door.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/hovey-revolving-door.html</guid>
-    <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Josh Hovey served on the Lansing Planning Commission through June 2025. Five months later he lobbied the same body as Deep Green's paid PR representative. He sits on the PAC that funded 6 of 8 Council members.</description>
-  </item>
-  <item>
-    <title>How Consumers Energy's Dark Money Reaches Lansing City Hall</title>
-    <link>https://rhinocerii.github.io/blahrgg/posts/consumers-energy-dark-money-lansing.html</link>
-    <guid>https://rhinocerii.github.io/blahrgg/posts/consumers-energy-dark-money-lansing.html</guid>
-    <pubDate>Wed, 25 Mar 2026 12:00:00 GMT</pubDate>
-    <description>Between 2014 and 2017, Consumers Energy funneled $43.5 million into a single anonymous nonprofit. Public records trace how that money reaches Lansing City Hall through a network of 501(c)(4) organizations, a political consulting firm, and a sitting judge's former legal infrastructure.</description>
   </item>
 </channel>
 </rss>
