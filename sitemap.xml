@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rhinocerii.github.io/blahrgg/</loc>
-    <lastmod>2026-04-22</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/flock-evidence-and-record.html</loc>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+  <url>
+    <loc>https://rhinocerii.github.io/blahrgg/posts/flock-ownership.html</loc>
+    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://rhinocerii.github.io/blahrgg/posts/red-tag-homeowner-permit-ban.html</loc>
