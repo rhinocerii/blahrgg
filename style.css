@@ -65,6 +65,7 @@ article code {
 
 article figure { margin: 1.5rem 0; }
 article figure img { max-width: 100%; height: auto; border: 1px solid #ddd; }
+article figure svg { max-width: 100%; height: auto; display: block; }
 article figure figcaption {
   font-size: 0.85rem;
   color: #666;
