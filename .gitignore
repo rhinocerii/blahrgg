@@ -2,3 +2,10 @@ research/
 drafts/
 *.draft.html
 .DS_Store
+
+# Quality-gate marker files (internal metadata, never ship)
+*.fact-check.md
+*.source-verify.md
+*.checklist.md
+*.red-team.md
+*.language-guard.md
