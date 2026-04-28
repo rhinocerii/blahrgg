@@ -5,8 +5,15 @@
   <link>https://rhinocerii.github.io/blahrgg/</link>
   <description>Public records investigations into local government, money, and power in Michigan.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 26 Apr 2026 23:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Apr 2026 23:00:00 GMT</lastBuildDate>
   <atom:link href="https://rhinocerii.github.io/blahrgg/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Michigan's Fuel Cell Policy Was Lifted From a Bloom Energy Letter</title>
+    <link>https://rhinocerii.github.io/blahrgg/posts/mpsc-bloom-2021-letter.html</link>
+    <guid>https://rhinocerii.github.io/blahrgg/posts/mpsc-bloom-2021-letter.html</guid>
+    <pubDate>Tue, 28 Apr 2026 23:00:00 GMT</pubDate>
+    <description>In late 2025, BWL pitched a Lansing data center powered by Bloom Energy fuel cells. Residents who traced the "considered clean energy in two states so far" framing back to its source ended up at MPSC Case U-20898, where Bloom Energy was the only source the commission cited for the four-sentence fuel-cell paragraph in its December 2021 final staff report. The Bloom letter the commission paraphrased did not mention the company's $1.37 million EPA fine for hazardous waste, the University of Delaware research finding the company overstated efficiency by as much as 20 percent, or the 2016 federal lawsuit alleging benzene-containing waste shipments. The post documents what the four sentences leave out (CO2, desulfurization waste, and the CHP distinction that breaks in Lansing) and what Michigan uses the report for.</description>
+  </item>
   <item>
     <title>Federal Housing Dollars in Lansing: The Network Around the LHC</title>
     <link>https://rhinocerii.github.io/blahrgg/posts/lansing-housing-network.html</link>
